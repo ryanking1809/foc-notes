@@ -1,0 +1,4879 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551440222.000200",
+    "user": "U5TCAFTD3",
+    "text": "<@U5TCAFTD3> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441015.000400",
+    "user": "UF6RLAL7J",
+    "text": "<@UF6RLAL7J> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441024.000600",
+    "user": "UFW3LB2KA",
+    "text": "<@UFW3LB2KA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441046.000800",
+    "user": "UBRS4E6B1",
+    "text": "<@UBRS4E6B1> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441049.001100",
+    "user": "UEKEQGB9C",
+    "text": "<@UEKEQGB9C> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441077.001700",
+    "user": "UEGFXUK3M",
+    "text": "<@UEGFXUK3M> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441219.001900",
+    "user": "UBN9AFS0N",
+    "text": "<@UBN9AFS0N> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441242.002100",
+    "user": "UEG9ECNSU",
+    "text": "<@UEG9ECNSU> has joined the channel"
+  },
+  {
+    "client_msg_id": "8e3ac5a6-836e-4ec2-8abf-0439aadd2e59",
+    "type": "message",
+    "text": "I’m going on a Californian job hunt in March. I’ll be in\nLA 12th - 20th\nSF 20th - 27th\n\nI’m a developer / designer, interested in interaction design, music, and education.\nI did an internship at Alex Warth’s YCR/HARC programming languages research group where I built these:\n<https://arthurcarabott.com/konnakkol/>\n<https://arthurcarabott.com/mui/>\n\ncontact: <mailto:arthur@arthurcarabott.com|arthur@arthurcarabott.com>",
+    "user": "UBRS4E6B1",
+    "ts": "1551441260.002300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g724bfb1976e",
+      "image_72": "https://secure.gravatar.com/avatar/1724bfb1976eda9d2b402502b0ae4c2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "",
+      "real_name": "Arthur Carabott",
+      "display_name": "Arthur",
+      "team": "T5TCAFTA9",
+      "name": "arthur",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UBRS4E6B1",
+      "ts": "1551441870.000000"
+    },
+    "thread_ts": "1551441260.002300",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1551611146.008900",
+    "reply_users": [
+      "UGMH4H202",
+      "U79HM6726"
+    ],
+    "replies": [
+      {
+        "user": "UGMH4H202",
+        "ts": "1551562089.008200"
+      },
+      {
+        "user": "U79HM6726",
+        "ts": "1551611146.008900"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U5TCAFTD3",
+          "UF6RLAL7J"
+        ],
+        "count": 2
+      },
+      {
+        "name": "briefcase",
+        "users": [
+          "UEGFXUK3M"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "UF6RLAL7J",
+          "U79HM6726"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441283.002700",
+    "user": "UCKRZS3DZ",
+    "text": "<@UCKRZS3DZ> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441639.003000",
+    "user": "UDRQ4V0CT",
+    "text": "<@UDRQ4V0CT> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441693.003200",
+    "user": "UF71PR58X",
+    "text": "<@UF71PR58X> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551441749.003400",
+    "user": "UE1JQM9HQ",
+    "text": "<@UE1JQM9HQ> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551443882.004000",
+    "user": "UF5PAGQQ4",
+    "text": "<@UF5PAGQQ4> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551445686.004300",
+    "user": "UC25BN0RW",
+    "text": "<@UC25BN0RW> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551451556.004500",
+    "user": "U8KUK98QP",
+    "text": "<@U8KUK98QP> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551451820.004700",
+    "user": "UG91ZQ26P",
+    "text": "<@UG91ZQ26P> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551452047.004900",
+    "user": "UBWT66AGN",
+    "text": "<@UBWT66AGN> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551453221.005100",
+    "user": "U85HCL7JP",
+    "text": "<@U85HCL7JP> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551455285.005300",
+    "user": "UC21F8Q48",
+    "text": "<@UC21F8Q48> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1551457130.005500",
+    "user": "UEQG5HC1W",
+    "text": "<@UEQG5HC1W> has joined the channel"
+  },
+  {
+    "client_msg_id": "76350e92-7687-457e-b95d-be7902aab917",
+    "type": "message",
+    "text": "hi all!\n\nif anyone is interested in learning about working at coda, there are a lot of interesting future of programming challenges in our work. (a lot!!)\n\n<http://www.coda.io|www.coda.io>\n\nfeel free to reach out --&gt; <mailto:nagle@coda.io|nagle@coda.io>",
+    "user": "UGMH4H202",
+    "ts": "1551561970.008100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "grinning",
+        "users": [
+          "UF2GNRUTV"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "UHZNB3HRP",
+          "UJC8ZDSTX"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "06debb41-a56f-4ea8-a219-35510090de95",
+    "type": "message",
+    "text": "hi!",
+    "user": "UGMH4H202",
+    "ts": "1551562089.008200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1551441260.002300",
+    "parent_user_id": "UBRS4E6B1"
+  },
+  {
+    "client_msg_id": "96a3d8b6-eb8a-495d-af23-19125ebdb00c",
+    "type": "message",
+    "text": "Hi Arthur, does the pro-audio field interest you?\nMy company Sound Radix (<https://www.soundradix.com>) develops innovative problem-solving plugins for the pro niche that our loved by our users (<https://twitter.com/Starpiss/status/1070995910304415744> etc) :slightly_smiling_face:",
+    "user": "U79HM6726",
+    "ts": "1551611146.008900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4ac39488e9c",
+      "image_72": "https://secure.gravatar.com/avatar/24ac39488e9c4f2833d087a1343707dc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "",
+      "real_name": "Yair Chuchem",
+      "display_name": "yairchu",
+      "team": "T5TCAFTA9",
+      "name": "yairchu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "title": "Sound Radix",
+        "title_link": "https://www.soundradix.com/",
+        "text": "We create cutting-edge audio plugins for music creators and sound designers. Compatible with VST, AAX and Audio-Unit plug-ins for Mac &amp; PC.",
+        "fallback": "Sound Radix",
+        "thumb_url": "https://assets.soundradix.com/static/sr_base/img/aboutbg.eb6e9eadc7b4.jpg",
+        "from_url": "https://www.soundradix.com/",
+        "thumb_width": 1600,
+        "thumb_height": 400,
+        "service_icon": "https://assets.soundradix.com/static/favicon.461be5acbcd4.ico",
+        "service_name": "soundradix.com",
+        "id": 1,
+        "original_url": "https://www.soundradix.com"
+      },
+      {
+        "fallback": "<https://twitter.com/Starpiss|@Starpiss>: What an exciting day :sob: using Auto Align Post for the first time. My life is forever changed. <https://pbs.twimg.com/media/DtzxERRWsAE_VaC.jpg>",
+        "ts": 1544180297,
+        "author_name": "Vanessa Rachel Kanaan",
+        "author_link": "https://twitter.com/Starpiss/status/1070995910304415744",
+        "author_icon": "https://pbs.twimg.com/profile_images/1025360978186317825/sKNsDvpv_normal.jpg",
+        "author_subname": "@Starpiss",
+        "text": "What an exciting day :sob: using Auto Align Post for the first time. My life is forever changed. <https://pbs.twimg.com/media/DtzxERRWsAE_VaC.jpg>",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "from_url": "https://twitter.com/Starpiss/status/1070995910304415744",
+        "image_url": "https://pbs.twimg.com/media/DtzxERRWsAE_VaC.jpg",
+        "image_width": 900,
+        "image_height": 1200,
+        "image_bytes": 170146,
+        "id": 2,
+        "original_url": "https://twitter.com/Starpiss/status/1070995910304415744",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "thread_ts": "1551441260.002300",
+    "parent_user_id": "UBRS4E6B1"
+  },
+  {
+    "client_msg_id": "8c562dd8-5fd3-403e-b388-cc149c3e40f0",
+    "type": "message",
+    "text": "Hi all — We are hiring at *Storyscript* - top-level language that seamlessly connects microservices and functions in a serverless way. Jobs <https://angel.co/storyscript> and more at <http://docs.storyscript.io|docs.storyscript.io>",
+    "user": "UJKKBAMLL",
+    "ts": "1557502585.002000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "daf85520-f488-43b0-ac42-85241146d471",
+    "type": "message",
+    "text": "Hello everyone! I am Abhinav, the founder and CEO of Postman (<http://www.getpostman.com|www.getpostman.com>). We are expanding our design team in San Francisco and are also setting up an internal UX research lab. Since 2014, We have focused our efforts on building a powerful tool that can be used by everyone which has led to more than 7 million users using Postman to do something productive. Our users span the whole spectrum of hardcore developers to DevOps/Writers and even the C-suite. If you are interested in joining us, feel free to DM me!",
+    "user": "UEASWGGMR",
+    "ts": "1557825347.007200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g38106c50942",
+      "image_72": "https://secure.gravatar.com/avatar/038106c509428014f4312ff180438f77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "",
+      "real_name": "Abhinav Asthana",
+      "display_name": "Abhinav",
+      "team": "T5TCAFTA9",
+      "name": "abhinav",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U5TCAFTD3",
+          "UHWC9PXBL"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a58f10e6-ccea-44ca-bb45-23efcf6f2fa9",
+    "type": "message",
+    "text": "Someone my girlfriend thinks highly of is about to do YC for an AI &amp; IoT company and is looking for their lead engineer / CTO. (It's not really related to this group, but I just thought I'd post here anyways because who knows?) <https://angel.co/company/buildstream1/jobs/530751-lead-engineer>",
+    "user": "U5TCAFTD3",
+    "ts": "1559226586.003200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U5TCAFTD3",
+      "ts": "1559226597.000000"
+    }
+  },
+  {
+    "client_msg_id": "70B43983-47DD-44AE-9C28-656519E768A4",
+    "type": "message",
+    "text": "A brilliant former intern of mine, a recent high school graduate (valedictorian) on his way to Stanford is looking for a paid coding internship this summer. He’s in NYC but would be interested in remote opportunities as well",
+    "user": "U5TCAFTD3",
+    "ts": "1559292170.005800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559292170.005800",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1562506058.022800",
+    "reply_users": [
+      "UJKKBAMLL",
+      "U5TCAFTD3"
+    ],
+    "replies": [
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1562067609.022100"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1562081475.022300"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1562506058.022800"
+      }
+    ],
+    "subscribed": true,
+    "last_read": "1562506058.022800"
+  },
+  {
+    "client_msg_id": "5e2e8d28-5bd6-474e-86de-5088887249f4",
+    "type": "message",
+    "text": "<@U7PH857FB> at Universe (interview on the podcast) is hiring remote! <https://twitter.com/josephcohen/status/1134447818763112448?s=19>",
+    "user": "U5TCAFTD3",
+    "ts": "1559395372.006500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "fallback": "<https://twitter.com/josephcohen|@josephcohen>: Want to live in the woods (or anywhere), invent creative interfaces, and build a new internet? \n\nWe’re looking for a designer <https://twitter.com/onuniverse|@onuniverse>. Email me: <mailto:joseph@onuniverse.com|joseph@onuniverse.com>.",
+        "ts": 1559308411,
+        "author_name": "Joseph Cohen",
+        "author_link": "https://twitter.com/josephcohen/status/1134447818763112448",
+        "author_icon": "https://pbs.twimg.com/profile_images/996400373916037121/4ShYlCnO_normal.jpg",
+        "author_subname": "@josephcohen",
+        "text": "Want to live in the woods (or anywhere), invent creative interfaces, and build a new internet? \n\nWe’re looking for a designer <https://twitter.com/onuniverse|@onuniverse>. Email me: <mailto:joseph@onuniverse.com|joseph@onuniverse.com>.",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "from_url": "https://twitter.com/josephcohen/status/1134447818763112448?s=19",
+        "id": 1,
+        "original_url": "https://twitter.com/josephcohen/status/1134447818763112448?s=19",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1d85e658-1f5d-46a1-98f8-d5f1cc4e7cdc",
+    "type": "message",
+    "text": "lmk if you have questions :slightly_smiling_face:",
+    "user": "U7PH857FB",
+    "ts": "1559575711.007300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g82e660aed18",
+      "image_72": "https://secure.gravatar.com/avatar/f82e660aed18a2d0c5c2e9d81bde6009.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "",
+      "real_name": "Joe Cohen",
+      "display_name": "joe",
+      "team": "T5TCAFTA9",
+      "name": "josephmco",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559575711.007300",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1560374091.020200",
+    "reply_users": [
+      "UKASUGYL8"
+    ],
+    "replies": [
+      {
+        "user": "UKASUGYL8",
+        "ts": "1560374091.020200"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2eda991c-9b7f-4491-900e-a91c0f0189cd",
+    "type": "message",
+    "text": "Hi Everyone! We at Storyscript are *developing the future of programming* with the first top-level programming language. We are hiring quite a lot and looking for passionate developers who believe with strong empathy. Learn more at <https://storyscript.io> — I’m the founder of Storyscript and <http://Codecov.io|Codecov.io> — I’m here to chat :slightly_smiling_face:\nCloud-native, polyglot development, turing-complete, strong-typed programming language that is intuitive and highly-readable. The future of programming. — <https://jobs.lever.co/storyscript/> — Including *Language Engineering Job*",
+    "user": "UJKKBAMLL",
+    "ts": "1560359462.012800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UJKKBAMLL",
+      "ts": "1562926224.000000"
+    },
+    "attachments": [
+      {
+        "title": "Storyscript",
+        "title_link": "https://storyscript.io/",
+        "text": "Top-level coding for seamlessly stringing microservices and functions in a serverless way.",
+        "fallback": "Storyscript",
+        "from_url": "https://storyscript.io/",
+        "service_icon": "https://storyscript.io/favicon.ico",
+        "service_name": "storyscript.io",
+        "id": 1,
+        "original_url": "https://storyscript.io"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U5TCAFTD3",
+          "UF2GNRUTV",
+          "UGLSY9X3J",
+          "ULRFDU55Z"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "985C9EFE-6D6A-4CC9-A096-D1C326B61B64",
+    "type": "message",
+    "text": "Hi Joe! I tried the Universe app. Usually I’m skeptical about GUIs that claim to make website building “easy”. But there are things I liked in Universe. For example, the domain creation and content update is abstracted away in an interesting way. The grid based layout engine is also fun to play with. \n\nOn a more ideological note, there is much to think about how we could empower web citizens instead of walled gardens consumers.\n\nWhat are you looking for exactly? What kind of additional input would you like in your team?",
+    "user": "UKASUGYL8",
+    "ts": "1560374091.020200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "1be0ff30a27c",
+      "image_72": "https://avatars.slack-edge.com/2019-06-06/656896537269_1be0ff30a27c1f309eb6_72.png",
+      "first_name": "Achraf",
+      "real_name": "Achraf Kassioui",
+      "display_name": "Achraf Kassioui",
+      "team": "T5TCAFTA9",
+      "name": "achrafkassioui",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559575711.007300",
+    "parent_user_id": "U7PH857FB"
+  },
+  {
+    "client_msg_id": "8e82ffe0-c01f-4871-b751-654c4640c5f4",
+    "type": "message",
+    "text": "Hey! We are interested at Storyscript. Feel free to pass <http://storyscript.io|storyscript.io> to him to see if he resonates with the product :heart:",
+    "user": "UJKKBAMLL",
+    "ts": "1562067609.022100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559292170.005800",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "a99ea3e9-47f5-438b-8c08-326f796b87ed",
+    "type": "message",
+    "text": "Ok, messaged him, thanks!",
+    "user": "U5TCAFTD3",
+    "ts": "1562081475.022300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559292170.005800",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "916476df-87fc-4b13-a548-3fc6f16f0933",
+    "type": "message",
+    "text": "He's found something for the summer, but says he might reach out in the Fall after school starts",
+    "user": "U5TCAFTD3",
+    "ts": "1562506058.022800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559292170.005800",
+    "parent_user_id": "U5TCAFTD3",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UJKKBAMLL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7e4dffce-eb55-4c94-bb83-536438d38e90",
+    "type": "message",
+    "text": "I have a friend who's looking to hire someone to quickly prototype a web app of a similar complexity to angellist. He's mostly concerned about working with someone who's experienced and fast, and it could potentially continue if all goes well. Sorry I can be more specific. Let me know if anyone has experience in rapid prototyping for web",
+    "user": "U5TCAFTD3",
+    "ts": "1563295343.025600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U5TCAFTD3",
+      "ts": "1563295366.000000"
+    },
+    "thread_ts": "1563295343.025600",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1563653757.000100",
+    "reply_users": [
+      "U85HCL7JP",
+      "U5TCAFTD3",
+      "UDJ8A6RNH"
+    ],
+    "replies": [
+      {
+        "user": "U85HCL7JP",
+        "ts": "1563304399.025800"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1563309213.026200"
+      },
+      {
+        "user": "UDJ8A6RNH",
+        "ts": "1563568247.026700"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1563653757.000100"
+      }
+    ],
+    "subscribed": true,
+    "last_read": "1563653757.000100"
+  },
+  {
+    "client_msg_id": "09dac6d5-cb6a-4bee-b7aa-c457976e1daa",
+    "type": "message",
+    "text": "I have experience on quick prototyping. Is it more backend/frontend prototype? Does the technology implemented in matters? I’ve experience on Ruby on Rails",
+    "user": "U85HCL7JP",
+    "ts": "1563304399.025800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1563295343.025600",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "D6B4CB6C-F263-4D27-A752-D5098915D76D",
+    "type": "message",
+    "text": "Ok! I’ll ask",
+    "user": "U5TCAFTD3",
+    "ts": "1563309213.026200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1563295343.025600",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "328a2758-4321-4a34-b72d-f204c4074bf4",
+    "type": "message",
+    "text": "granted it was a long time ago, but angellist did start as an email list. what fidelity is required for this person's mvp?",
+    "user": "UDJ8A6RNH",
+    "ts": "1563568247.026700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ga41c273f4d5",
+      "image_72": "https://secure.gravatar.com/avatar/2a41c273f4d55889dbecdb473a9dcc81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "",
+      "real_name": "Dev Doshi",
+      "display_name": "dev",
+      "team": "T5TCAFTA9",
+      "name": "dev",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1563295343.025600",
+    "parent_user_id": "U5TCAFTD3",
+    "reactions": [
+      {
+        "name": "brain",
+        "users": [
+          "UFPPABQ7P"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ccb95c64-52ea-4595-9995-6f03dfc38ed4",
+    "type": "message",
+    "text": "Pretty high fidelity, I think",
+    "user": "U5TCAFTD3",
+    "ts": "1563653757.000100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1563295343.025600",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "94313512-d98f-46b0-98c0-9defd4645afd",
+    "type": "message",
+    "text": "We at <https://www.lunchboxsessions.com> are looking to hire a full-stack web programmer to work on our Rails backend, build games and activities for learners, and work on tooling for our art team. The position is on-site in Alberta, Canada. If you're interested, or know someone who might be, feel free to DM me or email <mailto:support@lunchboxsessions.com|support@lunchboxsessions.com>",
+    "user": "UC2A2ARPT",
+    "ts": "1564606174.003700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UC2A2ARPT",
+      "ts": "1564606180.000000"
+    },
+    "thread_ts": "1564606174.003700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1566863975.009400",
+    "reply_users": [
+      "UHYC3BA4X",
+      "UC2A2ARPT"
+    ],
+    "replies": [
+      {
+        "user": "UHYC3BA4X",
+        "ts": "1566842102.008500"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1566863975.009400"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "efcb59eb-aed5-47d5-83d2-2a947d610af0",
+    "type": "message",
+    "text": "Facebook has a couple of \"Compiler\" engineer jobs atm. The timing isn't right for me to apply personally so I'm dropping it here in case anyone is interested... <https://www.facebook.com/careers/jobs?q=compiler>",
+    "user": "UD6EXQVM0",
+    "ts": "1565036062.005500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4a9957508aa",
+      "image_72": "https://secure.gravatar.com/avatar/e4a9957508aa1bdb16018793cfc1bb40.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "",
+      "real_name": "David Piepgrass",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "qwertie256",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "title": "Facebook Careers",
+        "title_link": "https://www.facebook.com/careers/jobs?q=compiler",
+        "text": "Facebook's mission is to give people the power to build community and bring the world closer together. Together, we can help people build stronger communities - join us.",
+        "fallback": "Facebook Careers",
+        "image_url": "https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/nMMxpZvBViQ.png?_nc_x=Ij3Wp8lg5Kz",
+        "from_url": "https://www.facebook.com/careers/jobs?q=compiler",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 85613,
+        "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico?_nc_x=Ij3Wp8lg5Kz",
+        "service_name": "facebook.com",
+        "id": 1,
+        "original_url": "https://www.facebook.com/careers/jobs?q=compiler"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "28db482c-31b7-4adf-a631-d11fd41303f1",
+    "type": "message",
+    "text": "I work at Facebook, so if you're interested in this job and want a referral please dm me",
+    "user": "UBSMEUXAA",
+    "ts": "1565036181.006400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "0edf98a60210",
+      "image_72": "https://avatars.slack-edge.com/2019-09-26/774747080560_0edf98a60210d3ab07ea_72.jpg",
+      "first_name": "",
+      "real_name": "Scott Anderson",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "scottan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "05f00af2-af6c-479c-a38a-9097b39ad5fb",
+    "type": "message",
+    "text": "I'm not familiar with this team and don't know the hiring manager but I do know some other programming language\\compiler team engineers and managers",
+    "user": "UBSMEUXAA",
+    "ts": "1565036208.007000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "0edf98a60210",
+      "image_72": "https://avatars.slack-edge.com/2019-09-26/774747080560_0edf98a60210d3ab07ea_72.jpg",
+      "first_name": "",
+      "real_name": "Scott Anderson",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "scottan",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "60573290-9664-4582-95ab-45140d878a96",
+    "type": "message",
+    "text": "this is such a fun website, just had to say haha",
+    "user": "UHYC3BA4X",
+    "ts": "1566842102.008500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "3e083c76ab37",
+      "image_72": "https://avatars.slack-edge.com/2019-04-12/610760544230_3e083c76ab37b8abc5c5_72.jpg",
+      "first_name": "",
+      "real_name": "Chi",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "contact",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1564606174.003700",
+    "parent_user_id": "UC2A2ARPT"
+  },
+  {
+    "client_msg_id": "C06B0C9E-4E75-4E2D-AAE4-2A24E03AEEB5",
+    "type": "message",
+    "text": "Thanks! I had a lot of fun adding little flourishes throughout.",
+    "user": "UC2A2ARPT",
+    "ts": "1566863975.009400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1564606174.003700",
+    "parent_user_id": "UC2A2ARPT"
+  },
+  {
+    "client_msg_id": "4c6b8d0f-b733-43fb-90da-58177d1a68d6",
+    "type": "message",
+    "text": "Hi Everyone! I work at Airtable and we're hiring for folks on the platform engineering team. You'll be working on the future of our blocks platform, which are essentially apps that run on top of the database.  This includes low-code / no-code integrations for end-users among other exciting projects to be announced.  DM if you're interested and would like a referral! <https://www.keyvalues.com/airtable>",
+    "user": "UN96FUF39",
+    "ts": "1568136202.002800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g6293e444901",
+      "image_72": "https://secure.gravatar.com/avatar/6293e4449014c8c0cf13bccfe9a8c121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Michelle Valentine",
+      "display_name": "Michelle Valentine",
+      "team": "T5TCAFTA9",
+      "name": "michellebvalentine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "Key Values",
+        "title": "Airtable Engineering Culture | Key Values",
+        "title_link": "https://www.keyvalues.com/airtable",
+        "text": "Engineers at Airtable talk about their culture, key values, current team members, open jobs, and what it is like working at Airtable.",
+        "fallback": "Key Values: Airtable Engineering Culture | Key Values",
+        "image_url": "https://storage.googleapis.com/key-values-development.appspot.com/images/keyvalues/facebook-og-image.jpg",
+        "from_url": "https://www.keyvalues.com/airtable",
+        "image_width": 635,
+        "image_height": 250,
+        "image_bytes": 109034,
+        "service_icon": "https://www.keyvalues.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.keyvalues.com/airtable"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "318482d3-860e-4eb8-a2fe-59dd1b77edae",
+    "type": "message",
+    "text": "Hi Everyone! I'm sharing this for a friend at Idealist. DM if you'd like a referral. <https://idealist.applytojob.com/apply/LsZ3X1EV22/FrontEnd-Developer>",
+    "user": "UMLAFGFH6",
+    "ts": "1568220999.004100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ga591d19086f",
+      "image_72": "https://secure.gravatar.com/avatar/a591d19086fcb129b55e4e970bbe0782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "",
+      "real_name": "Erica Wong",
+      "display_name": "Erica Wong",
+      "team": "T5TCAFTA9",
+      "name": "erica.wong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "title": "Front-End Developer - Idealist - Career Page",
+        "title_link": "https://idealist.applytojob.com/apply/LsZ3X1EV22/FrontEnd-Developer",
+        "text": "Apply to Front-End Developer at Idealist in New York, NY.",
+        "fallback": "Front-End Developer - Idealist - Career Page",
+        "image_url": "https://app.jazz.co/img/apps/share_a_job-icon.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "from_url": "https://idealist.applytojob.com/apply/LsZ3X1EV22/FrontEnd-Developer",
+        "image_bytes": 31407,
+        "service_icon": "https://idealist.applytojob.com/img/v1.1/favicons/apple-touch-icon.png",
+        "service_name": "idealist.applytojob.com",
+        "id": 1,
+        "original_url": "https://idealist.applytojob.com/apply/LsZ3X1EV22/FrontEnd-Developer"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "15572de9-c18e-4f44-a34c-6b243390f5e7",
+    "type": "message",
+    "text": "hello everyone! i'm hiring people to work with me at appsheet in portland, oregon. i'm looking for people who have a \"futureofcoding mindset\". please send me a direct message if you're interested! <https://angel.co/company/appsheet/jobs/360190-software-developer-data-machine-learning>",
+    "user": "UP69Y6VJ7",
+    "ts": "1571776875.003800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g7e95cb557fe",
+      "image_72": "https://secure.gravatar.com/avatar/7e95cb557fe9d3a304c610d2570348a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "",
+      "real_name": "Tony Fader",
+      "display_name": "Tony Fader",
+      "team": "T5TCAFTA9",
+      "name": "afader",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "AngelList",
+        "title": "Machine Learning Engineer at AppSheet",
+        "title_link": "https://angel.co/company/appsheet/jobs/360190-software-developer-data-machine-learning",
+        "text": "AppSheet is hiring a Machine Learning Engineer in Portland. We're looking for a full-time software developer to join our new... Apply now on AngelList.",
+        "fallback": "AngelList: Machine Learning Engineer at AppSheet",
+        "thumb_url": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/95414-2af9e62c5fb516aba644aa0eed4ec968-thumb_jpg.jpg?buster=1475875609",
+        "from_url": "https://angel.co/company/appsheet/jobs/360190-software-developer-data-machine-learning",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "id": 1,
+        "original_url": "https://angel.co/company/appsheet/jobs/360190-software-developer-data-machine-learning"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "afa692b6-af13-4086-97bb-026f26fdeeba",
+    "type": "message",
+    "text": "(please feel free to contact me, even if you don't have the ML background)",
+    "user": "UP69Y6VJ7",
+    "ts": "1571776891.004300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g7e95cb557fe",
+      "image_72": "https://secure.gravatar.com/avatar/7e95cb557fe9d3a304c610d2570348a6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "",
+      "real_name": "Tony Fader",
+      "display_name": "Tony Fader",
+      "team": "T5TCAFTA9",
+      "name": "afader",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "5312c87f-b0f1-4e03-abaa-00a31fad8339",
+    "type": "message",
+    "text": "Hi all, I am fresh out of bootcamp and just learned the MERN stack (JS, MongoDB, React, Nodejs). I expect a lot of rejections but also plan to reach out to people rather than blindly applying to things. I also want to practice algorithms and data structures, as I know that is the weakest point for bootcamp students. If there are companies that I should keep an eye on in SF bay area, please let me know. I personally wouldn’t want to work with JS my whole life, so if there is advice to transition in the future, I’d love to know about that! I know lam research labs requires a masters for smalltalk so that is a possibility in the far future. Probably will ask these questions for the Thursday meetup in SF.",
+    "user": "UHYC3BA4X",
+    "ts": "1571786704.008800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "3e083c76ab37",
+      "image_72": "https://avatars.slack-edge.com/2019-04-12/610760544230_3e083c76ab37b8abc5c5_72.jpg",
+      "first_name": "",
+      "real_name": "Chi",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "contact",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571786704.008800",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1571857257.012700",
+    "reply_users": [
+      "UHWC9PXBL",
+      "UHYC3BA4X"
+    ],
+    "replies": [
+      {
+        "user": "UHWC9PXBL",
+        "ts": "1571799249.010200"
+      },
+      {
+        "user": "UHWC9PXBL",
+        "ts": "1571799331.012400"
+      },
+      {
+        "user": "UHYC3BA4X",
+        "ts": "1571857257.012700"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U5TCAFTD3",
+          "UC2A2ARPT"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "61796C1C-2D6A-452B-BF1D-96CF75529ED3",
+    "type": "message",
+    "text": "hi! in my experience the best way to get out of a language you don’t like is to build a side project or contribute to open source in a language you do like (i know that can be hard)",
+    "user": "UHWC9PXBL",
+    "ts": "1571799249.010200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g0d754210ed4",
+      "image_72": "https://secure.gravatar.com/avatar/10d754210ed4e4706eba3d063cdf99f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Garth Goldwater",
+      "display_name": "Garth Goldwater",
+      "team": "T5TCAFTA9",
+      "name": "garth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571786704.008800",
+    "parent_user_id": "UHYC3BA4X"
+  },
+  {
+    "client_msg_id": "20375A90-2490-49E3-A2CA-D790191A96B3",
+    "type": "message",
+    "text": "as someone who’s hired for web dev roles before, i’d also advise you to check out a more traditional sql database system like postgres. if you need any help using other node adapters for that kind of stuff feel free to reach out!",
+    "user": "UHWC9PXBL",
+    "ts": "1571799331.012400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g0d754210ed4",
+      "image_72": "https://secure.gravatar.com/avatar/10d754210ed4e4706eba3d063cdf99f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Garth Goldwater",
+      "display_name": "Garth Goldwater",
+      "team": "T5TCAFTA9",
+      "name": "garth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571786704.008800",
+    "parent_user_id": "UHYC3BA4X",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "URDRJEWS0"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1b3db911-f269-4a01-ad61-11d556fdae4c",
+    "type": "message",
+    "text": "thanks for the advice. I did do a small project with posgres and worked on some python. I will continue to practice as I go!",
+    "user": "UHYC3BA4X",
+    "ts": "1571857257.012700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "3e083c76ab37",
+      "image_72": "https://avatars.slack-edge.com/2019-04-12/610760544230_3e083c76ab37b8abc5c5_72.jpg",
+      "first_name": "",
+      "real_name": "Chi",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "contact",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571786704.008800",
+    "parent_user_id": "UHYC3BA4X"
+  },
+  {
+    "client_msg_id": "3619f7ca-6b24-4b48-b4e3-190b6c262634",
+    "type": "message",
+    "text": "Hi :wave::skin-tone-3: , I’m looking into transitioning early next year into a company closer related to the future of programming. I’m currently in the Bay Area and most likely going to stay here for awhile.\nI started like many here creating a `nodes and arrows` language some years ago. My biggest interests are: end-user-programming and semantic/projectional editors.\nYou can view my cv in <https://pel-daniel.github.io/cv/>\nA couple more links:\n• An awesome list of future of programming projects that I maintain <https://github.com/pel-daniel/mind-bicycles>\n• An animation to explain `map` &amp; `reduce` HOF’s <https://lambdabricks.github.io/animating-hofs/>\n• How recursion might look in a `nodes and arrows` language <https://lambdabricks.github.io/exploring-recursion/> (click the + sign to expand the recursive calls)\n• An early prototype on a programming language that reads like natural text <https://github.com/nlpl-lang/nlpl-editor/blob/master/README.md>\nIf anybody has leads into companies working on interesting projects with open positions please let me know!",
+    "user": "U85HCL7JP",
+    "ts": "1575859605.026500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "USj7T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "emoji",
+                "name": "wave",
+                "skin_tone": 3
+              },
+              {
+                "type": "text",
+                "text": " , I’m looking into transitioning early next year into a company closer related to the future of programming. I’m currently in the Bay Area and most likely going to stay here for awhile.\nI started like many here creating a "
+              },
+              {
+                "type": "text",
+                "text": "nodes and arrows",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " language some years ago. My biggest interests are: end-user-programming and semantic/projectional editors.\nYou can view my cv in "
+              },
+              {
+                "type": "link",
+                "url": "https://pel-daniel.github.io/cv/"
+              },
+              {
+                "type": "text",
+                "text": "\nA couple more links:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "An awesome list of future of programming projects that I maintain "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://github.com/pel-daniel/mind-bicycles"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "An animation to explain "
+                  },
+                  {
+                    "type": "text",
+                    "text": "map",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " & "
+                  },
+                  {
+                    "type": "text",
+                    "text": "reduce",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " HOF’s "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://lambdabricks.github.io/animating-hofs/"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "How recursion might look in a "
+                  },
+                  {
+                    "type": "text",
+                    "text": "nodes and arrows",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " language "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://lambdabricks.github.io/exploring-recursion/"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (click the + sign to expand the recursive calls)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "An early prototype on a programming language that reads like natural text "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://github.com/nlpl-lang/nlpl-editor/blob/master/README.md"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If anybody has leads into companies working on interesting projects with open positions please let me know!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "reply_count": 7,
+    "reply_users_count": 5,
+    "latest_reply": "1576172271.031000",
+    "reply_users": [
+      "UJ6LDMMN0",
+      "U79HM6726",
+      "U85HCL7JP",
+      "U5TCAFTD3",
+      "UGLSY9X3J"
+    ],
+    "replies": [
+      {
+        "user": "UJ6LDMMN0",
+        "ts": "1575879947.026800"
+      },
+      {
+        "user": "U79HM6726",
+        "ts": "1575881649.027000"
+      },
+      {
+        "user": "U85HCL7JP",
+        "ts": "1575909912.027800"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1575975924.028300"
+      },
+      {
+        "user": "U85HCL7JP",
+        "ts": "1576023829.030100"
+      },
+      {
+        "user": "UGLSY9X3J",
+        "ts": "1576112755.030500"
+      },
+      {
+        "user": "U85HCL7JP",
+        "ts": "1576172271.031000"
+      }
+    ],
+    "subscribed": true,
+    "last_read": "1576334251.010800",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UKASUGYL8",
+          "UJ6LDMMN0",
+          "U79HM6726",
+          "UCXR52MU2",
+          "UML4ZEKDK"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5c17a667-bb96-4029-afdc-ffdffa5dcced",
+    "type": "message",
+    "text": "Sorry, no position to offer on my side (and by the way Toulouse is far from the Bay Area). But I like your visual explanation of map and reduce, and of recursion. You real grasp what is goin on and it is explorable (at least if you add editing in the factorial example, which I guess you have left as exercise for the reader)",
+    "user": "UJ6LDMMN0",
+    "ts": "1575879947.026800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "426cd5067da7",
+      "image_72": "https://avatars.slack-edge.com/2019-04-26/607834329346_426cd5067da7fc8c6933_72.png",
+      "first_name": "nicolas",
+      "real_name": "nicolas decoster",
+      "display_name": "ogadaki",
+      "team": "T5TCAFTA9",
+      "name": "nicolas.decoster",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aJ+Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, no position to offer on my side (and by the way Toulouse is far from the Bay Area). But I like your visual explanation of map and reduce, and of recursion. You real grasp what is goin on and it is explorable (at least if you add editing in the factorial example, which I guess you have left as exercise for the reader)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "4db9fa57-128f-4464-b5a1-187ab32234bc",
+    "type": "message",
+    "text": "The link from your CV to “Lambda Bricks” is broken",
+    "user": "U79HM6726",
+    "ts": "1575881649.027000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4ac39488e9c",
+      "image_72": "https://secure.gravatar.com/avatar/24ac39488e9c4f2833d087a1343707dc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "",
+      "real_name": "Yair Chuchem",
+      "display_name": "yairchu",
+      "team": "T5TCAFTA9",
+      "name": "yairchu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U79HM6726",
+      "ts": "1575881663.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Ffz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The link from your CV to “Lambda Bricks” is broken"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "0E34BD7C-5D13-4C8B-A788-CACF46E75888",
+    "type": "message",
+    "text": "Thanks <@U79HM6726>, I fixed it",
+    "user": "U85HCL7JP",
+    "ts": "1575909912.027800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "06877490-691a-4afd-8e34-a4e2a462f68a",
+    "type": "message",
+    "text": "There are a bunch of FoC companies in the Bay: <@U6LBL2CJ1>'s Dark, Webflow, <@UHAMHHHSS>'s Replit, Notion, Coda. Probably more not off the top of my head...",
+    "user": "U5TCAFTD3",
+    "ts": "1575975924.028300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RDj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There are a bunch of FoC companies in the Bay: "
+              },
+              {
+                "type": "user",
+                "user_id": "U6LBL2CJ1"
+              },
+              {
+                "type": "text",
+                "text": "'s Dark, Webflow, "
+              },
+              {
+                "type": "user",
+                "user_id": "UHAMHHHSS"
+              },
+              {
+                "type": "text",
+                "text": "'s Replit, Notion, Coda. Probably more not off the top of my head..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "82fe7a88-1499-47b6-9ab5-2caf6f1bb859",
+    "type": "message",
+    "text": "I have no relation with them but they are great so posting it here: &lt;https://twitter.com/observablehq/status/1204521906306609152&gt;",
+    "user": "UBN9AFS0N",
+    "ts": "1576016817.029000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7f0f1c0238ec",
+      "image_72": "https://avatars.slack-edge.com/2018-07-09/395086754178_7f0f1c0238ec02befdab_72.jpg",
+      "first_name": "Mariano",
+      "real_name": "Mariano Guerra",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "mariano",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UBN9AFS0N",
+      "ts": "1576016833.000000"
+    },
+    "attachments": [
+      {
+        "fallback": "<https://twitter.com/observablehq|@observablehq>: The Observable team is hiring!  \n\nWe are looking for \n- Developer Advocates  (and lead)\n- Developers (software and data viz)\n- User Experience Researchers\n- Designers\n- Product Managers\n- Product Marketing Lead\n- Recruiter\n\nTo learn more, check out <http://observablehq.com/about>",
+        "ts": 1576015376,
+        "author_name": "Observable",
+        "author_link": "https://twitter.com/observablehq/status/1204521906306609152",
+        "author_icon": "https://pbs.twimg.com/profile_images/1098653373362888704/qq4vXsM7_normal.png",
+        "author_subname": "@observablehq",
+        "text": "The Observable team is hiring!  \n\nWe are looking for \n- Developer Advocates  (and lead)\n- Developers (software and data viz)\n- User Experience Researchers\n- Designers\n- Product Managers\n- Product Marketing Lead\n- Recruiter\n\nTo learn more, check out <http://observablehq.com/about>",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "from_url": "https://twitter.com/observablehq/status/1204521906306609152",
+        "id": 1,
+        "original_url": "https://twitter.com/observablehq/status/1204521906306609152",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DFLx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have no relation with them but they are great so posting it here: "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/observablehq/status/1204521906306609152"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "cake",
+        "users": [
+          "UC2A2ARPT",
+          "UE3KC0VK6",
+          "UHWC9PXBL"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "E81D6EE0-0F4B-4AE4-B072-587983930A1F",
+    "type": "message",
+    "text": "Thanks <@U5TCAFTD3>, I’ll look at openings in their sites",
+    "user": "U85HCL7JP",
+    "ts": "1576023829.030100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "8a4b61eb-0fb1-4cb3-b470-f885fdb2be87",
+    "type": "message",
+    "text": "may also be relevant! <https://twitter.com/observablehq/status/1204521906306609152>",
+    "user": "UGLSY9X3J",
+    "ts": "1576112755.030500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g03ebdf13bbe",
+      "image_72": "https://secure.gravatar.com/avatar/e03ebdf13bbeacace66454bea388b927.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Srini Kadamati",
+      "display_name": "srini",
+      "team": "T5TCAFTA9",
+      "name": "srini",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "fallback": "<https://twitter.com/observablehq|@observablehq>: The Observable team is hiring!  \n\nWe are looking for \n- Developer Advocates  (and lead)\n- Developers (software and data viz)\n- User Experience Researchers\n- Designers\n- Product Managers\n- Product Marketing Lead\n- Recruiter\n\nTo learn more, check out <http://observablehq.com/about>",
+        "ts": 1576015376,
+        "author_name": "Observable",
+        "author_link": "https://twitter.com/observablehq/status/1204521906306609152",
+        "author_icon": "https://pbs.twimg.com/profile_images/1098653373362888704/qq4vXsM7_normal.png",
+        "author_subname": "@observablehq",
+        "text": "The Observable team is hiring!  \n\nWe are looking for \n- Developer Advocates  (and lead)\n- Developers (software and data viz)\n- User Experience Researchers\n- Designers\n- Product Managers\n- Product Marketing Lead\n- Recruiter\n\nTo learn more, check out <http://observablehq.com/about>",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "from_url": "https://twitter.com/observablehq/status/1204521906306609152",
+        "id": 1,
+        "original_url": "https://twitter.com/observablehq/status/1204521906306609152",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gr4+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "may also be relevant! "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/observablehq/status/1204521906306609152"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "54955a13-ad5f-4b15-9468-9d10aa41e235",
+    "type": "message",
+    "text": "Thanks <@UGLSY9X3J>",
+    "user": "U85HCL7JP",
+    "ts": "1576172271.031000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k=J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "UGLSY9X3J"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1575859605.026500",
+    "parent_user_id": "U85HCL7JP"
+  },
+  {
+    "client_msg_id": "79217b43-60b5-4ff9-ac35-6167ccd4f969",
+    "type": "message",
+    "text": "Let me know if you has any questions about this, I've been here for 2 months and really like the team so far",
+    "user": "UE3KC0VK6",
+    "ts": "1576175335.032000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g2aabe3b15ad",
+      "image_72": "https://secure.gravatar.com/avatar/42aabe3b15ad406ed4237abd473bd55f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "",
+      "real_name": "Thomas Ballinger",
+      "display_name": "ballingt",
+      "team": "T5TCAFTA9",
+      "name": "me1542",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "crTtU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know if you has any questions about this, I've been here for 2 months and really like the team so far"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1576175335.032000",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1576553218.001800",
+    "reply_users": [
+      "UHWC9PXBL",
+      "UE3KC0VK6"
+    ],
+    "replies": [
+      {
+        "user": "UHWC9PXBL",
+        "ts": "1576255679.000500"
+      },
+      {
+        "user": "UE3KC0VK6",
+        "ts": "1576553218.001800"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "8483916e-f858-4430-be04-d890cb5f99f2",
+    "type": "message",
+    "text": "My only question is the same as the tweet response: do y’all do any remote work or do these entail moving to SF?",
+    "user": "UHWC9PXBL",
+    "ts": "1576255679.000500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g0d754210ed4",
+      "image_72": "https://secure.gravatar.com/avatar/10d754210ed4e4706eba3d063cdf99f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Garth Goldwater",
+      "display_name": "Garth Goldwater",
+      "team": "T5TCAFTA9",
+      "name": "garth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jcbi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My only question is the same as the tweet response: do y’all do any remote work or do these entail moving to SF?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1576175335.032000",
+    "parent_user_id": "UE3KC0VK6"
+  },
+  {
+    "client_msg_id": "B8F2BF7D-8F6D-4FF2-BBAE-B2FE97D4DF91",
+    "type": "message",
+    "text": "Not for now, I can update here when that changes.",
+    "user": "UE3KC0VK6",
+    "ts": "1576553218.001800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g2aabe3b15ad",
+      "image_72": "https://secure.gravatar.com/avatar/42aabe3b15ad406ed4237abd473bd55f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "",
+      "real_name": "Thomas Ballinger",
+      "display_name": "ballingt",
+      "team": "T5TCAFTA9",
+      "name": "me1542",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iUi3o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not for now, I can update here when that changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1576175335.032000",
+    "parent_user_id": "UE3KC0VK6"
+  },
+  {
+    "client_msg_id": "0F6486A8-D675-473D-A369-2250AB492645",
+    "type": "message",
+    "text": "<https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/amp/>\nanyone wanna talk @worrydream into coming to fix Brexit? (if you yourself are excited about dynamicland style projects and interested in british policymaking, you may wish to apply)",
+    "user": "UJUGB1XGD",
+    "ts": "1578001619.001900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g2810c79d33a",
+      "image_72": "https://secure.gravatar.com/avatar/f2810c79d33a097f4e0900c9622b5106.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "fyr",
+      "display_name": "fyr",
+      "team": "T5TCAFTA9",
+      "name": "ohaitch",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "Dominic Cummings's Blog",
+        "title": "‘Two hands are a lot’ — we’re hiring data scientists, project managers, policy experts, assorted weirdos…",
+        "title_link": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/amp/",
+        "text": "‘This is possibly the single largest design flaw contributing to the bad Nash equilibrium in which … many governments are stuck. Every individual high-functioning competent person knows they …",
+        "fallback": "Dominic Cummings's Blog: ‘Two hands are a lot’ — we’re hiring data scientists, project managers, policy experts, assorted weirdos…",
+        "thumb_url": "https://s0.wp.com/i/blank.jpg",
+        "ts": 1577986002,
+        "from_url": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/amp/",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://dominiccummings.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/amp/"
+      }
+    ],
+    "thread_ts": "1578001619.001900",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1582014499.010600",
+    "reply_users": [
+      "UFPPABQ7P",
+      "UC2A2ARPT",
+      "UGX9MS77V",
+      "UEGFXUK3M"
+    ],
+    "replies": [
+      {
+        "user": "UFPPABQ7P",
+        "ts": "1578002779.002300"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1578002794.002500"
+      },
+      {
+        "user": "UGX9MS77V",
+        "ts": "1579459515.000600"
+      },
+      {
+        "user": "UEGFXUK3M",
+        "ts": "1582014499.010600"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UMVFWPZ36"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "915a7cf0-8d3a-4c4e-a3c6-d8bc7c17ce00",
+    "type": "message",
+    "text": "Thank you for sharing!",
+    "user": "UFPPABQ7P",
+    "ts": "1578002779.002300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9d79e2bebc",
+      "image_72": "https://avatars.slack-edge.com/2019-05-09/631538186901_cb9d79e2bebc09100b3f_72.jpg",
+      "first_name": "Cole",
+      "real_name": "Cole Lawrence",
+      "display_name": "Cole",
+      "team": "T5TCAFTA9",
+      "name": "colelawr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "thv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you for sharing!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1578001619.001900",
+    "parent_user_id": "UJUGB1XGD"
+  },
+  {
+    "client_msg_id": "c3154a06-f305-4e6e-a590-44532cdff545",
+    "type": "message",
+    "text": "(For reference, Dominic Cummings was previously discussed here: <https://futureofcoding.slack.com/archives/C5U3SEW6A/p1567003312002200>)",
+    "user": "UC2A2ARPT",
+    "ts": "1578002794.002500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UC2A2ARPT",
+      "ts": "1578002798.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pEvt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(For reference, Dominic Cummings was previously discussed here: "
+              },
+              {
+                "type": "link",
+                "url": "https://futureofcoding.slack.com/archives/C5U3SEW6A/p1567003312002200"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1578001619.001900",
+    "parent_user_id": "UJUGB1XGD",
+    "reactions": [
+      {
+        "name": "ok_hand",
+        "users": [
+          "UFPPABQ7P",
+          "UMVFWPZ36"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a3ab6b1a-ef8f-4454-9e70-977808ffb0be",
+    "type": "message",
+    "text": "<http://Storyscript.io|Storyscript.io> is looking for FE developers to build the next Glitch, the next Zapier, the next generation of cloud development. Feel free to DM me for questions about the job :wave: *Remote, good $ + % + benefits, relaxed culture` Cheers!",
+    "user": "UJKKBAMLL",
+    "ts": "1578685568.002300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UJKKBAMLL",
+      "ts": "1578685594.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j5V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://Storyscript.io",
+                "text": "Storyscript.io"
+              },
+              {
+                "type": "text",
+                "text": " is looking for FE developers to build the next Glitch, the next Zapier, the next generation of cloud development. Feel free to DM me for questions about the job "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": " *Remote, good $ + % + benefits, relaxed culture` Cheers!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "de518f74-55de-4cab-8196-261b651284bc",
+    "type": "message",
+    "text": "Hi! I lead research at Coda. We're hiring! Feel free to email me (nagle @ <http://coda.io|coda.io>) and I can connect you to our recruiting team.\n\n<https://coda.io/d/Coda-Careers_dgHbPPZOc3o/Careers_sugz_?viewMode=embed&amp;hideSections=true#_lum0P>",
+    "user": "UGMH4H202",
+    "ts": "1579129118.004600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "Coda | A new doc for teams.",
+        "title": "Coda Careers",
+        "title_link": "https://coda.io/d/Coda-Careers_dgHbPPZOc3o/Careers_sugz_?viewMode=embed&hideSections=true#_lum0P",
+        "text": "Coda doc by Kenny Mendes",
+        "fallback": "Coda | A new doc for teams.: Coda Careers",
+        "thumb_url": "https://cdn.coda.io/assets/2ed554b4a43b/img/coda-mark.png",
+        "from_url": "https://coda.io/d/Coda-Careers_dgHbPPZOc3o/Careers_sugz_?viewMode=embed&hideSections=true#_lum0P",
+        "thumb_width": 512,
+        "thumb_height": 512,
+        "id": 1,
+        "original_url": "https://coda.io/d/Coda-Careers_dgHbPPZOc3o/Careers_sugz_?viewMode=embed&amp;hideSections=true#_lum0P"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vCMO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! I lead research at Coda. We're hiring! Feel free to email me (nagle @ "
+              },
+              {
+                "type": "link",
+                "url": "http://coda.io",
+                "text": "coda.io"
+              },
+              {
+                "type": "text",
+                "text": ") and I can connect you to our recruiting team.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://coda.io/d/Coda-Careers_dgHbPPZOc3o/Careers_sugz_?viewMode=embed&hideSections=true#_lum0P"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "reply_count": 6,
+    "reply_users_count": 4,
+    "latest_reply": "1579287833.000300",
+    "reply_users": [
+      "UGLSY9X3J",
+      "UGMH4H202",
+      "UNRP1CX4Y",
+      "UBN9AFS0N"
+    ],
+    "replies": [
+      {
+        "user": "UGLSY9X3J",
+        "ts": "1579129697.004900"
+      },
+      {
+        "user": "UGMH4H202",
+        "ts": "1579134090.005100"
+      },
+      {
+        "user": "UNRP1CX4Y",
+        "ts": "1579142711.005700"
+      },
+      {
+        "user": "UBN9AFS0N",
+        "ts": "1579164519.005900"
+      },
+      {
+        "user": "UGMH4H202",
+        "ts": "1579287710.000100"
+      },
+      {
+        "user": "UGMH4H202",
+        "ts": "1579287833.000300"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "9e8d84ba-e8bf-49ca-993e-6f6ec57f7d22",
+    "type": "message",
+    "text": "not hiring new researchers? :stuck_out_tongue:",
+    "user": "UGLSY9X3J",
+    "ts": "1579129697.004900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g03ebdf13bbe",
+      "image_72": "https://secure.gravatar.com/avatar/e03ebdf13bbeacace66454bea388b927.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Srini Kadamati",
+      "display_name": "srini",
+      "team": "T5TCAFTA9",
+      "name": "srini",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OR=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not hiring new researchers? "
+              },
+              {
+                "type": "emoji",
+                "name": "stuck_out_tongue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202"
+  },
+  {
+    "client_msg_id": "bece29cf-005a-4580-a45e-0929159c596b",
+    "type": "message",
+    "text": "Hi!\nI really want to hire another researcher here. There's enough to do for sure.\nOne thing I like about this culture is job roles have a lot of fluidity - people interested in the research we talk about here often work in eng and product/design.\nBut it isn't the same as a pure research role.",
+    "user": "UGMH4H202",
+    "ts": "1579134090.005100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5UXW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi!\nI really want to hire another researcher here. There's enough to do for sure.\nOne thing I like about this culture is job roles have a lot of fluidity - people interested in the research we talk about here often work in eng and product/design.\nBut it isn't the same as a pure research role."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UGLSY9X3J",
+          "UHWC9PXBL"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1D9DCF1C-F73B-4BE5-839A-963DF1045576",
+    "type": "message",
+    "text": "Open to remote?",
+    "user": "UNRP1CX4Y",
+    "ts": "1579142711.005700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g81716107a9f",
+      "image_72": "https://secure.gravatar.com/avatar/81716107a9f18397945286898e2165f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "",
+      "real_name": "Avi Flax",
+      "display_name": "Avi Flax",
+      "team": "T5TCAFTA9",
+      "name": "avi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6nlaQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Open to remote?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "URDRJEWS0"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "21360091-5359-47fa-8f94-99d279e459da",
+    "type": "message",
+    "text": "<@UGMH4H202> can I post it on the newsletter?",
+    "user": "UBN9AFS0N",
+    "ts": "1579164519.005900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7f0f1c0238ec",
+      "image_72": "https://avatars.slack-edge.com/2018-07-09/395086754178_7f0f1c0238ec02befdab_72.jpg",
+      "first_name": "Mariano",
+      "real_name": "Mariano Guerra",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "mariano",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N+zc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UGMH4H202"
+              },
+              {
+                "type": "text",
+                "text": " can I post it on the newsletter?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202"
+  },
+  {
+    "client_msg_id": "98df3b5c-9c7f-412b-b999-21fb74421474",
+    "type": "message",
+    "text": "<@UBN9AFS0N> there's a newsletter! I didn't know that. Yes please :slightly_smiling_face:",
+    "user": "UGMH4H202",
+    "ts": "1579287710.000100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qFjs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UBN9AFS0N"
+              },
+              {
+                "type": "text",
+                "text": " there's a newsletter! I didn't know that. Yes please "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202"
+  },
+  {
+    "client_msg_id": "6ed4d39b-2cb7-4b13-a298-9243f50fadec",
+    "type": "message",
+    "text": "<@UNRP1CX4Y> I actually don't know our official stance on remote. What's true is we have multiple people who started in the Bay or Seattle who have now gone remote as well as made our first remote exclusive hires. I myself took ~4 months remote to take care of a sick parent and it was from the work pov a really smooth experience. So I would say please get in touch with us - me or the jobs page directly!",
+    "user": "UGMH4H202",
+    "ts": "1579287833.000300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g09b287ba3e8",
+      "image_72": "https://secure.gravatar.com/avatar/309b287ba3e8e59a57c1297f3bf89a3e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "nagle",
+      "real_name": "nagle",
+      "display_name": "nagle",
+      "team": "T5TCAFTA9",
+      "name": "mpnagle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6GNT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UNRP1CX4Y"
+              },
+              {
+                "type": "text",
+                "text": " I actually don't know our official stance on remote. What's true is we have multiple people who started in the Bay or Seattle who have now gone remote as well as made our first remote exclusive hires. I myself took ~4 months remote to take care of a sick parent and it was from the work pov a really smooth experience. So I would say please get in touch with us - me or the jobs page directly!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1579129118.004600",
+    "parent_user_id": "UGMH4H202",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UJC8ZDSTX"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0ece1a75-af1a-40b7-8a72-eacfdec4c19a",
+    "type": "message",
+    "text": "I'm very, very afraid of this guy. Every powerful tool can be used for both good and evil. Together with their other plans they might be very well cooking up a surveillance techno dystopia ...",
+    "user": "UGX9MS77V",
+    "ts": "1579459515.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g7efa9536450",
+      "image_72": "https://secure.gravatar.com/avatar/f7efa95364507635a0021a1231eb6b65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "",
+      "real_name": "Aleksander",
+      "display_name": "Sumowski",
+      "team": "T5TCAFTA9",
+      "name": "dev704",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VZRk3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm very, very afraid of this guy. Every powerful tool can be used for both good and evil. Together with their other plans they might be very well cooking up a surveillance techno dystopia ..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1578001619.001900",
+    "parent_user_id": "UJUGB1XGD",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UC2A2ARPT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "69140d31-89b1-4f1c-8545-fb99ffc8e4a2",
+    "type": "message",
+    "text": "I found a really interesting Microsoft job post <https://careers.microsoft.com/us/en/job/769490/Internship-Opportunities-Designing-for-spreadsheets-and-programming-languages>",
+    "user": "U85HCL7JP",
+    "ts": "1580106594.000700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "Microsoft",
+        "title": "Internship Opportunities: Designing for spreadsheets and programming languages in Cambridge, Cambridgeshire, United Kingdom | Research at Microsoft",
+        "title_link": "https://careers.microsoft.com/us/en/job/769490/Internship-Opportunities-Designing-for-spreadsheets-and-programming-languages",
+        "text": "Apply for Internship Opportunities: Designing for spreadsheets and programming languages job with Microsoft in Cambridge, Cambridgeshire, United Kingdom. Research at Microsoft",
+        "fallback": "Microsoft: Internship Opportunities: Designing for spreadsheets and programming languages in Cambridge, Cambridgeshire, United Kingdom | Research at Microsoft",
+        "thumb_url": "https://dev-cms-cdn-hub.azureedge.net/careerconnectresources/d/MICRUS/social/Share_msft-1526988101412.jpg",
+        "from_url": "https://careers.microsoft.com/us/en/job/769490/Internship-Opportunities-Designing-for-spreadsheets-and-programming-languages",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://prodcmscdn.azureedge.net/careerconnectresources/p/MICRUS/en_us/desktop/assets/images/mobile/h/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://careers.microsoft.com/us/en/job/769490/Internship-Opportunities-Designing-for-spreadsheets-and-programming-languages"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pja",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found a really interesting Microsoft job post "
+              },
+              {
+                "type": "link",
+                "url": "https://careers.microsoft.com/us/en/job/769490/Internship-Opportunities-Designing-for-spreadsheets-and-programming-languages"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "clap::skin-tone-2",
+        "users": [
+          "UF1ATC4RF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6689cee0-ad53-48e5-9b68-d91e0014257c",
+    "type": "message",
+    "text": "Heya\n\nAny generalists with C++/Python expertise looking an interesting (full-time) challenge ?\nDisguise (of UVA roots) are looking for Graphics/GPU and/or high performance networking experts.\nDM me and I can pass you to the right people\n\n<http://disguise.one/>",
+    "user": "UDRQ4V0CT",
+    "ts": "1580660641.006500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gc4bcb3f24ad",
+      "image_72": "https://secure.gravatar.com/avatar/0c4bcb3f24ad14960786e462db08d98f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "",
+      "real_name": "George Profenza",
+      "display_name": "George Profenza",
+      "team": "T5TCAFTA9",
+      "name": "orgicus",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UDRQ4V0CT",
+      "ts": "1581258270.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zdk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Heya\n\nAny generalists with C++/Python expertise looking an interesting (full-time) challenge ?\nDisguise (of UVA roots) are looking for Graphics/GPU and/or high performance networking experts.\nDM me and I can pass you to the right people\n\n"
+              },
+              {
+                "type": "link",
+                "url": "http://disguise.one/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "638a27f7-7bc1-45b2-a3b2-6ca229e54f97",
+    "type": "message",
+    "text": "Found this interesting “type system and language tools” related job at Stripe\n<https://stripe.com/jobs/listing/type-system-and-language-tools-engineer/2062199>\nThought I’d just share it with you folks :slightly_smiling_face:",
+    "user": "UF1ATC4RF",
+    "ts": "1581482184.010000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "f7d23ee4d8b2",
+      "image_72": "https://avatars.slack-edge.com/2020-04-24/1069322068471_f7d23ee4d8b2dbb3c1ad_72.jpg",
+      "first_name": "Deepak",
+      "real_name": "Deepak Karki",
+      "display_name": "karki",
+      "team": "T5TCAFTA9",
+      "name": "deepak6k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UF1ATC4RF",
+      "ts": "1581482193.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AMD4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Found this interesting “type system and language tools” related job at Stripe\n"
+              },
+              {
+                "type": "link",
+                "url": "https://stripe.com/jobs/listing/type-system-and-language-tools-engineer/2062199"
+              },
+              {
+                "type": "text",
+                "text": "\nThought I’d just share it with you folks "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UC2A2ARPT",
+          "UHWC9PXBL",
+          "UKP3B2J5D",
+          "UCKRZS3DZ"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6c739526-768d-4851-aff9-4fc697fe4b45",
+    "type": "message",
+    "text": "How's that hiring going <@UJUGB1XGD>? <https://www.theguardian.com/politics/2020/feb/17/boris-johnson-adviser-quits-over-race-and-eugenics-writings>",
+    "user": "UEGFXUK3M",
+    "ts": "1582014499.010600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "bbd74d10a2d2",
+      "image_72": "https://avatars.slack-edge.com/2020-04-24/1108683470016_bbd74d10a2d2a0dbb156_72.jpg",
+      "first_name": "Jack",
+      "real_name": "Jack",
+      "display_name": "jarm",
+      "team": "T5TCAFTA9",
+      "name": "jack",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "the Guardian",
+        "title": "Boris Johnson adviser quits over race and eugenics controversy",
+        "title_link": "https://www.theguardian.com/politics/2020/feb/17/boris-johnson-adviser-quits-over-race-and-eugenics-writings",
+        "text": "Andrew Sabisky says he is stepping down as ‘contractor’ to No 10 after fierce criticism across political spectrum",
+        "fallback": "the Guardian: Boris Johnson adviser quits over race and eugenics controversy",
+        "image_url": "https://i.guim.co.uk/img/media/4f5a4215765c202850b5da594b4b26071c8d5223/0_25_2203_1322/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=107b91a2fa4dc5f8ed4bf22a07bf9ba4",
+        "image_width": 476,
+        "image_height": 250,
+        "ts": 1581973105,
+        "from_url": "https://www.theguardian.com/politics/2020/feb/17/boris-johnson-adviser-quits-over-race-and-eugenics-writings",
+        "image_bytes": 60718,
+        "service_icon": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png",
+        "id": 1,
+        "original_url": "https://www.theguardian.com/politics/2020/feb/17/boris-johnson-adviser-quits-over-race-and-eugenics-writings"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zb=kT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How's that hiring going "
+              },
+              {
+                "type": "user",
+                "user_id": "UJUGB1XGD"
+              },
+              {
+                "type": "text",
+                "text": "? "
+              },
+              {
+                "type": "link",
+                "url": "https://www.theguardian.com/politics/2020/feb/17/boris-johnson-adviser-quits-over-race-and-eugenics-writings"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1578001619.001900",
+    "parent_user_id": "UJUGB1XGD",
+    "reactions": [
+      {
+        "name": "exploding_head",
+        "users": [
+          "UFPPABQ7P"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6bb05070-fe5a-460b-8ea7-fe1354d4705b",
+    "type": "message",
+    "text": "Just gauging interest — put a :thumbsup: on this message if you're looking for remote work.",
+    "user": "UC2A2ARPT",
+    "ts": "1582329424.011600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kTHAk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just gauging interest — put a "
+              },
+              {
+                "type": "emoji",
+                "name": "thumbsup"
+              },
+              {
+                "type": "text",
+                "text": " on this message if you're looking for remote work."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1582329424.011600",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1582370204.012500",
+    "reply_users": [
+      "UE6EFEPTQ",
+      "UC2A2ARPT"
+    ],
+    "replies": [
+      {
+        "user": "UE6EFEPTQ",
+        "ts": "1582329701.011800"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1582345719.012100"
+      },
+      {
+        "user": "UE6EFEPTQ",
+        "ts": "1582370204.012500"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "users": [
+          "UE6EFEPTQ",
+          "UF6RLAL7J",
+          "UHZUS56SV",
+          "UKM22EFEG",
+          "U85HCL7JP",
+          "UNRP1CX4Y",
+          "UKQ8YK9R9",
+          "UGLSY9X3J",
+          "UPVBV34EL",
+          "UTG9XLGKZ",
+          "UKB1S7ZMY",
+          "UT5URDKEW",
+          "UP6G25H35",
+          "URSTX13HS",
+          "UNGNT3BKR",
+          "UHWC9PXBL",
+          "UDRQ4V0CT",
+          "U0112C10V4Y",
+          "U011X0NJF9S",
+          "UKP3B2J5D"
+        ],
+        "count": 20
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6e09826-1769-4cb2-884f-122d06a9bab7",
+    "type": "message",
+    "text": "I already am a remote-working JS programmer",
+    "user": "UE6EFEPTQ",
+    "ts": "1582329701.011800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "8073c43d5d8d",
+      "image_72": "https://avatars.slack-edge.com/2018-12-18/508431502471_8073c43d5d8dd3d3b4b2_72.jpg",
+      "first_name": "Duncan",
+      "real_name": "Duncan Cragg",
+      "display_name": "Duncan Cragg",
+      "team": "T5TCAFTA9",
+      "name": "fp",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UE6EFEPTQ",
+      "ts": "1582329729.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qYCSZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I already am a remote-working JS programmer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1582329424.011600",
+    "parent_user_id": "UC2A2ARPT"
+  },
+  {
+    "client_msg_id": "192c90c8-a167-4e05-9ec2-4215c6c8e6b2",
+    "type": "message",
+    "text": "I want to see how many people are currently looking for remote work, not how many people already have a remote job. Are you looking for work / interested in offers?",
+    "user": "UC2A2ARPT",
+    "ts": "1582345719.012100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UC2A2ARPT",
+      "ts": "1582345745.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QnCzL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want to see how many people are currently looking for remote work, not how many people already have a remote job. Are you looking for work / interested in offers?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1582329424.011600",
+    "parent_user_id": "UC2A2ARPT"
+  },
+  {
+    "client_msg_id": "cda930b8-a178-4d8e-b398-a810f7369797",
+    "type": "message",
+    "text": "I saw that. I was being chatty and filling out the conversation",
+    "user": "UE6EFEPTQ",
+    "ts": "1582370204.012500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "8073c43d5d8d",
+      "image_72": "https://avatars.slack-edge.com/2018-12-18/508431502471_8073c43d5d8dd3d3b4b2_72.jpg",
+      "first_name": "Duncan",
+      "real_name": "Duncan Cragg",
+      "display_name": "Duncan Cragg",
+      "team": "T5TCAFTA9",
+      "name": "fp",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l6P2O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I saw that. I was being chatty and filling out the conversation"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1582329424.011600",
+    "parent_user_id": "UC2A2ARPT",
+    "reactions": [
+      {
+        "name": "upside_down_face",
+        "users": [
+          "UC2A2ARPT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "UNRP1CX4Y",
+          "UD6EXQVM0"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "185a1ea2-2aa2-4dfd-9c7d-38f2b9a9c0b2",
+    "type": "message",
+    "text": "New jobs! <https://twitter.com/storyscript_/status/1234559451421536257>",
+    "user": "UJKKBAMLL",
+    "ts": "1583178312.003100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "fallback": "<https://twitter.com/storyscript_|@storyscript_>: We posted new, remote, senior engineering roles to help build a future where a billion people can code with the all-in-one natural coding studio. Apply today at <https://jobs.lever.co/storyscript>",
+        "ts": 1583176884,
+        "author_name": "Storyscript",
+        "author_link": "https://twitter.com/storyscript_/status/1234559451421536257",
+        "author_icon": "https://pbs.twimg.com/profile_images/1205067261859512320/Jmt8g3VT_normal.jpg",
+        "author_subname": "@storyscript_",
+        "text": "We posted new, remote, senior engineering roles to help build a future where a billion people can code with the all-in-one natural coding studio. Apply today at <https://jobs.lever.co/storyscript>",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "from_url": "https://twitter.com/storyscript_/status/1234559451421536257",
+        "id": 1,
+        "original_url": "https://twitter.com/storyscript_/status/1234559451421536257",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KdZ2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "New jobs! "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/storyscript_/status/1234559451421536257"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "mag",
+        "users": [
+          "UFPPABQ7P"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d1124cef-0401-4fe6-a952-cfb3b271039a",
+    "type": "message",
+    "text": "Hi all, my friend Sarah Stern at Cultivate is starting an initiative to match tech talent with jobs in the progressive movement. I said I'd share this with this community. From her:\n\n_To win in 2020, we need the best and the brightest in tech to join the progressive movement. We just launched *All Hands*: a tech talent matchmaker, functioning as a curated resume bank + jobs board where we make introductions to orgs that are hiring._ \n\n_We’re looking for product + engineering talent looking to make the switch to progressive tech. Apply here to join the All Hands talent pool &gt;&gt; <https://all-hands.us>_",
+    "user": "UMLAFGFH6",
+    "ts": "1583958621.004700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ga591d19086f",
+      "image_72": "https://secure.gravatar.com/avatar/a591d19086fcb129b55e4e970bbe0782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "",
+      "real_name": "Erica Wong",
+      "display_name": "Erica Wong",
+      "team": "T5TCAFTA9",
+      "name": "erica.wong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "All Hands",
+        "title": "All Hands – Switch your job. Save democracy.",
+        "title_link": "https://all-hands.us/",
+        "text": "To win in 2020, progressives need unprecedented mobilization. We're calling for the best &amp; brightest tech talent to step up, and we’re here to help you do it.",
+        "fallback": "All Hands: All Hands – Switch your job. Save democracy.",
+        "thumb_url": "http://static1.squarespace.com/static/5e41725639b7795755667edc/t/5e6003c064c28d4b4c0507c9/1583350726634/All+Hands+Final.png?format=1500w",
+        "from_url": "https://all-hands.us/",
+        "thumb_width": 1200,
+        "thumb_height": 675,
+        "service_icon": "https://images.squarespace-cdn.com/content/v1/5e41725639b7795755667edc/1582997199160-3FKM8AJIIYUGIQ3D4P6W/ke17ZwdGBToddI8pDm48kNjpXgdB2GQ4GXsvq_1og8aoCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp6_MLhNeL9yWw1amyLjdgohmCNS_LeH4t9qD0d_SmSPc_VumPslpQQgM4-VHAcYf4g/favicon.ico",
+        "id": 1,
+        "original_url": "https://all-hands.us"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H=r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all, my friend Sarah Stern at Cultivate is starting an initiative to match tech talent with jobs in the progressive movement. I said I'd share this with this community. From her:\n\n"
+              },
+              {
+                "type": "text",
+                "text": "To win in 2020, we need the best and the brightest in tech to join the progressive movement. We just launched *All Hands*: a tech talent matchmaker, functioning as a curated resume bank + jobs board where we make introductions to orgs that are hiring. ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "We’re looking for product + engineering talent looking to make the switch to progressive tech. Apply here to join the All Hands talent pool >> ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://all-hands.us",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1583958621.004700",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1585905965.000500",
+    "reply_users": [
+      "UKDM3GLAJ",
+      "UC2A2ARPT",
+      "UCKRZS3DZ"
+    ],
+    "replies": [
+      {
+        "user": "UKDM3GLAJ",
+        "ts": "1584019651.005600"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1584030654.006900"
+      },
+      {
+        "user": "UCKRZS3DZ",
+        "ts": "1585905965.000500"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "UC2A2ARPT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "31b7ce05-33a8-4ab3-b34a-b002c728bbaa",
+    "type": "message",
+    "text": "What is the progressive movement? I’ve never heard of it (:flag-ca: ). All I can find online is the Progressive Era, which seems to have ended in the 1920s.",
+    "user": "UKDM3GLAJ",
+    "ts": "1584019651.005600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "34e7a55348e8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-04/893378739792_34e7a55348e8c86c1901_72.jpg",
+      "first_name": "",
+      "real_name": "Jared Windover",
+      "display_name": "Jared Windover",
+      "team": "T5TCAFTA9",
+      "name": "jaredwindover",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9cbX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What is the progressive movement? I’ve never heard of it ("
+              },
+              {
+                "type": "emoji",
+                "name": "flag-ca"
+              },
+              {
+                "type": "text",
+                "text": " ). All I can find online is the Progressive Era, which seems to have ended in the 1920s."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1583958621.004700",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "598D49ED-67F5-48F7-862F-47F650B650CF",
+    "type": "message",
+    "text": "\"Progressive\" is the range of politics between the center-left and far left. For us Canadians it'd definitely be the NDP, and possibly even further to the left with things like the Courage Coalition (<http://www.couragecoalition.ca/>), and for the US it'd be Democratic Socialists.\n\nThe term \"movement\" is meant to establish that it's operating at the level of individual citizens, not at the level of political party officials, think tanks and lobbyists, media, corporations, etc. — though often those latter groups will call what they're doing a \"movement\" in an attempt to seem more authentic and of the people.\n\nThe Sunrise Movement is probably a good example of a progressive movement focused on climate change: <https://en.wikipedia.org/wiki/Sunrise_Movement>",
+    "user": "UC2A2ARPT",
+    "ts": "1584030654.006900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UC2A2ARPT",
+      "ts": "1584033196.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k5t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\"Progressive\" is the range of politics between the center-left and far left. For us Canadians it'd definitely be the NDP, and possibly even further to the left with things like the Courage Coalition ("
+              },
+              {
+                "type": "link",
+                "url": "http://www.couragecoalition.ca/"
+              },
+              {
+                "type": "text",
+                "text": "), and for the US it'd be Democratic Socialists.\n\nThe term \"movement\" is meant to establish that it's operating at the level of individual citizens, not at the level of political party officials, think tanks and lobbyists, media, corporations, etc. — though often those latter groups will call what they're doing a \"movement\" in an attempt to seem more authentic and of the people.\n\nThe Sunrise Movement is probably a good example of a progressive movement focused on climate change: "
+              },
+              {
+                "type": "link",
+                "url": "https://en.wikipedia.org/wiki/Sunrise_Movement"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1583958621.004700",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "type": "message",
+    "text": "Hello! I'm on the platform engineering team at Airtable and we're hiring a developer support engineer. You should be familiar with javascript (bonus points for React) and have 2+ years of experience. JD attached :raised_hands:",
+    "files": [
+      {
+        "id": "F0109CQUM71",
+        "created": 1584496536,
+        "timestamp": 1584496536,
+        "name": "Airtable Developer Support Engineer JD.pdf",
+        "title": "Airtable Developer Support Engineer JD.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "UN96FUF39",
+        "editable": false,
+        "size": 40919,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T5TCAFTA9-F0109CQUM71/airtable_developer_support_engineer_jd.pdf?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "url_private_download": "https://files.slack.com/files-pri/T5TCAFTA9-F0109CQUM71/download/airtable_developer_support_engineer_jd.pdf?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T5TCAFTA9-F0109CQUM71-5cabf0651e/airtable_developer_support_engineer_jd_thumb_pdf.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_pdf_w": 935,
+        "thumb_pdf_h": 1210,
+        "permalink": "https://futureofcoding.slack.com/files/UN96FUF39/F0109CQUM71/airtable_developer_support_engineer_jd.pdf",
+        "permalink_public": "https://slack-files.com/T5TCAFTA9-F0109CQUM71-96532806be",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": true,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZkcF8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello! I'm on the platform engineering team at Airtable and we're hiring a developer support engineer. You should be familiar with javascript (bonus points for React) and have 2+ years of experience. JD attached "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "UN96FUF39",
+    "display_as_bot": false,
+    "ts": "1584496538.009200",
+    "client_msg_id": "ce96c2ee-4444-43f7-afc9-338b337c805f",
+    "thread_ts": "1584496538.009200",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1587403021.002200",
+    "reply_users": [
+      "UAJKEBGP8",
+      "UN96FUF39"
+    ],
+    "replies": [
+      {
+        "user": "UAJKEBGP8",
+        "ts": "1586284283.000900"
+      },
+      {
+        "user": "UN96FUF39",
+        "ts": "1587403021.002200"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3497eff6-a94f-4e35-aac6-7202541adf8f",
+    "type": "message",
+    "text": "Hey y’all! I’ve just left my last job and am looking for a Data Science or Product Manager position (either Boston or remote). I’d love to hear from anyone who has hybrid positions (like Dev Advocate / Customer Eng positions around data science).\n\n• I’ve spent the last ~5 years at Dataquest, where I joined as the first employee (now 33) and helped the company grow from $0 to multi-million in ARR. I was exposed to / responsible for many different aspects of the business throughout my time there. \n• My formal background is in Math / CS. I started off writing data science courses at Dataquest, then held a few different management roles .. the last of which was Product Manager (<http://linkedin.com/in/srinivasakadamati|linkedin.com/in/srinivasakadamati>). I still need to start my blog:thinking_face: \n• *My career mission is to help democratize data science.* _I’m quite open to any roles where I can help put data &amp; research to action_, whether it’s doing analysis &amp; visualization or translating complex technical &amp; data topics to others. I’m also open to part-time / freelance roles\nThanks y’all!",
+    "user": "UAJKEBGP8",
+    "ts": "1585080181.010100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ge0cf3605817",
+      "image_72": "https://secure.gravatar.com/avatar/be0cf3605817ed3839061421303ee896.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Srini Kadamati",
+      "display_name": "srini",
+      "team": "T5TCAFTA9",
+      "name": "skadamat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UAJKEBGP8",
+      "ts": "1585149586.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dk/i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey y’all! I’ve just left my last job and am looking for a Data Science or Product Manager position (either Boston or remote). I’d love to hear from anyone who has hybrid positions (like Dev Advocate / Customer Eng positions around data science).\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I’ve spent the last ~5 years at Dataquest, where I joined as the first employee (now 33) and helped the company grow from $0 to multi-million in ARR. I was exposed to / responsible for many different aspects of the business throughout my time there. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "My formal background is in Math / CS. I started off writing data science courses at Dataquest, then held a few different management roles .. the last of which was Product Manager ("
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://linkedin.com/in/srinivasakadamati",
+                    "text": "linkedin.com/in/srinivasakadamati"
+                  },
+                  {
+                    "type": "text",
+                    "text": "). I still need to start my blog"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "thinking_face"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "My career mission is to help democratize data science. ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "I’m quite open to any roles where I can help put data & research to action",
+                    "style": {
+                      "italic": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ", whether it’s doing analysis & visualization or translating complex technical & data topics to others. I’m also open to part-time / freelance roles"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nThanks y’all!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "24a831d9-d7f5-4ea9-91fe-7f69bb5130b8",
+    "type": "message",
+    "text": "I am trying to imagine how someone would post a job for some far-right movement here. That would be awkward.\n\nI think it would be better if politics stayed out of this community.",
+    "user": "UCKRZS3DZ",
+    "ts": "1585905965.000500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "222a2870915d",
+      "image_72": "https://avatars.slack-edge.com/2019-12-15/861537614034_222a2870915d24ec10cc_72.jpg",
+      "first_name": "Vladimir",
+      "real_name": "Vladimir Gordeev",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "gordeev.vladimir.v",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+FK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am trying to imagine how someone would post a job for some far-right movement here. That would be awkward.\n\nI think it would be better if politics stayed out of this community."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1583958621.004700",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "24e6f17c-c8e7-4b5f-8f40-5a0bbab4bfef",
+    "type": "message",
+    "text": "hi Michelle — are y’all open to remote folks?",
+    "user": "UAJKEBGP8",
+    "ts": "1586284283.000900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ge0cf3605817",
+      "image_72": "https://secure.gravatar.com/avatar/be0cf3605817ed3839061421303ee896.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Srini Kadamati",
+      "display_name": "srini",
+      "team": "T5TCAFTA9",
+      "name": "skadamat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eWnWO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi Michelle — are y’all open to remote folks?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1584496538.009200",
+    "parent_user_id": "UN96FUF39"
+  },
+  {
+    "client_msg_id": "e1cde7f6-2e56-4b29-8de2-d149ea32f901",
+    "type": "message",
+    "text": "Hi Srini - we’re open to remote for senior folks with at least 4+ years of specific developer advocate experience.",
+    "user": "UN96FUF39",
+    "ts": "1587403021.002200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g6293e444901",
+      "image_72": "https://secure.gravatar.com/avatar/6293e4449014c8c0cf13bccfe9a8c121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Michelle Valentine",
+      "display_name": "Michelle Valentine",
+      "team": "T5TCAFTA9",
+      "name": "michellebvalentine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Imr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Srini - we’re open to remote for senior folks with at least 4+ years of specific developer advocate experience."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1584496538.009200",
+    "parent_user_id": "UN96FUF39"
+  },
+  {
+    "client_msg_id": "00520e99-0419-49f9-80f4-949fa6798693",
+    "type": "message",
+    "text": "_Calling all tech + data talent: in light of COVID-19, progressive campaigning &amp; advocacy is going digital-first, and we need your help. Join *All Hands* to switch to a career in the progressive movement today. Apply here to join the talent pool &gt;&gt; <https://all-hands.us>_",
+    "user": "UMLAFGFH6",
+    "ts": "1587656763.002500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ga591d19086f",
+      "image_72": "https://secure.gravatar.com/avatar/a591d19086fcb129b55e4e970bbe0782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "",
+      "real_name": "Erica Wong",
+      "display_name": "Erica Wong",
+      "team": "T5TCAFTA9",
+      "name": "erica.wong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "All Hands",
+        "title": "All Hands – Switch your job. Save democracy.",
+        "title_link": "https://all-hands.us/",
+        "text": "To win in 2020, progressives need unprecedented mobilization. We're calling for the best, brightest tech &amp; data talent to step up and are here to help you do it.",
+        "fallback": "All Hands: All Hands – Switch your job. Save democracy.",
+        "thumb_url": "http://static1.squarespace.com/static/5e41725639b7795755667edc/t/5e6003c064c28d4b4c0507c9/1583350726634/All+Hands+Final.png?format=1500w",
+        "from_url": "https://all-hands.us/",
+        "thumb_width": 1200,
+        "thumb_height": 675,
+        "service_icon": "https://images.squarespace-cdn.com/content/v1/5e41725639b7795755667edc/1582997199160-3FKM8AJIIYUGIQ3D4P6W/ke17ZwdGBToddI8pDm48kNjpXgdB2GQ4GXsvq_1og8aoCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp6_MLhNeL9yWw1amyLjdgohmCNS_LeH4t9qD0d_SmSPc_VumPslpQQgM4-VHAcYf4g/favicon.ico?format=",
+        "id": 1,
+        "original_url": "https://all-hands.us"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S//0J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Calling all tech + data talent: in light of COVID-19, progressive campaigning & advocacy is going digital-first, and we need your help. Join *All Hands* to switch to a career in the progressive movement today. Apply here to join the talent pool >> ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://all-hands.us",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1587656763.002500",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1587682347.003300",
+    "reply_users": [
+      "UKDM3GLAJ",
+      "UC2A2ARPT",
+      "UMLAFGFH6"
+    ],
+    "replies": [
+      {
+        "user": "UKDM3GLAJ",
+        "ts": "1587657286.002700"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1587659045.002900"
+      },
+      {
+        "user": "UMLAFGFH6",
+        "ts": "1587659421.003100"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1587682347.003300"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "9f8a6ca0-19cc-485b-b1ec-922d90fee18f",
+    "type": "message",
+    "text": "This was posted here three posts ago.",
+    "user": "UKDM3GLAJ",
+    "ts": "1587657286.002700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "34e7a55348e8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-04/893378739792_34e7a55348e8c86c1901_72.jpg",
+      "first_name": "",
+      "real_name": "Jared Windover",
+      "display_name": "Jared Windover",
+      "team": "T5TCAFTA9",
+      "name": "jaredwindover",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L2G+K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This was posted here three posts ago."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1587656763.002500",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "336e964f-f1f8-4ff3-b273-f70a299c8d9d",
+    "type": "message",
+    "text": "Agreed — <@UMLAFGFH6>, I think two posts in two months is a lot given the low volume on this channel. If you're still hiring in six months or a year, feel free to post again.",
+    "user": "UC2A2ARPT",
+    "ts": "1587659045.002900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xue",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agreed — "
+              },
+              {
+                "type": "user",
+                "user_id": "UMLAFGFH6"
+              },
+              {
+                "type": "text",
+                "text": ", I think two posts in two months is a lot given the low volume on this channel. If you're still hiring in six months or a year, feel free to post again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1587656763.002500",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "48c1a01c-0238-4a39-8618-cf465df0ba7d",
+    "type": "message",
+    "text": "Thank you for the gentle ping. Sorry - I was passing the message along for someone else who asked me to share it widely and actually didn't pay attention to the reception and community size. I won't post it here again!",
+    "user": "UMLAFGFH6",
+    "ts": "1587659421.003100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ga591d19086f",
+      "image_72": "https://secure.gravatar.com/avatar/a591d19086fcb129b55e4e970bbe0782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "",
+      "real_name": "Erica Wong",
+      "display_name": "Erica Wong",
+      "team": "T5TCAFTA9",
+      "name": "erica.wong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GzC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you for the gentle ping. Sorry - I was passing the message along for someone else who asked me to share it widely and actually didn't pay attention to the reception and community size. I won't post it here again!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1587656763.002500",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "4a3d5323-d0eb-466d-abe8-7cc4c8bded24",
+    "type": "message",
+    "text": "No worries!",
+    "user": "UC2A2ARPT",
+    "ts": "1587682347.003300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7TA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1587656763.002500",
+    "parent_user_id": "UMLAFGFH6"
+  },
+  {
+    "client_msg_id": "a9cbc034-e600-488e-bf98-e29de8d02c94",
+    "type": "message",
+    "text": "<http://Brilliant.org|Brilliant.org> is hiring an Interactives Engineer:\n<https://jobs.lever.co/brilliant/dc9ffa7d-b4a9-4909-bf39-8c2b620403a7>\nThey're looking for someone with interests in at least two of {design, programming, pedagogy}. Thought that might match a lot of folks here :slightly_smiling_face:",
+    "user": "UV1CVSXGC",
+    "ts": "1588944756.005400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "bacfa5ca638a",
+      "image_72": "https://avatars.slack-edge.com/2020-03-12/985422980563_bacfa5ca638add1dd05e_72.jpg",
+      "first_name": "",
+      "real_name": "Chris Martens",
+      "display_name": "Chris Martens",
+      "team": "T5TCAFTA9",
+      "name": "contextadventure",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "title": "Brilliant - Senior Interactives Engineer",
+        "title_link": "https://jobs.lever.co/brilliant/dc9ffa7d-b4a9-4909-bf39-8c2b620403a7",
+        "text": "The Role In a nutshell, you'll be responsible for building the tools we use to create interaction-first courses in math, science, and CS. We believe that interactive visualizations have the potential to change how people learn math and science. You will be reporting to the Lead PM for Interactives – but make no mistake, this is a highly cross-functional role. To get the a sense of the interactive aids that we build, check these quizzes out (make sure to click through each frame of the quiz). The current tech stack is a mix of JavaScript (ES6), TypeScript, and Elm; expertise in all three is not a requirement.",
+        "fallback": "Brilliant - Senior Interactives Engineer",
+        "thumb_url": "https://lever-client-logos.s3-us-west-2.amazonaws.com/b3943d3b-d47e-4ac8-873d-0b6502f03bf2-1587419968595.png",
+        "fields": [
+          {
+            "title": "Location",
+            "value": "San Francisco, CA",
+            "short": true
+          },
+          {
+            "title": "Team",
+            "value": "Interactives",
+            "short": true
+          }
+        ],
+        "from_url": "https://jobs.lever.co/brilliant/dc9ffa7d-b4a9-4909-bf39-8c2b620403a7",
+        "thumb_width": 1200,
+        "thumb_height": 1200,
+        "service_icon": "https://jobs.lever.co/favicon.ico",
+        "service_name": "jobs.lever.co",
+        "id": 1,
+        "original_url": "https://jobs.lever.co/brilliant/dc9ffa7d-b4a9-4909-bf39-8c2b620403a7"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3bcAJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://Brilliant.org",
+                "text": "Brilliant.org"
+              },
+              {
+                "type": "text",
+                "text": " is hiring an Interactives Engineer:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://jobs.lever.co/brilliant/dc9ffa7d-b4a9-4909-bf39-8c2b620403a7"
+              },
+              {
+                "type": "text",
+                "text": "\nThey're looking for someone with interests in at least two of {design, programming, pedagogy}. Thought that might match a lot of folks here "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "UC2A2ARPT",
+          "UGLSY9X3J",
+          "UHWC9PXBL",
+          "UFQQ3P867"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "591e2d51-cecc-4414-81e7-b37f07a15da2",
+    "type": "message",
+    "text": "Hey, anyone on the channel hiring these days? :neutral_face:",
+    "user": "U013HU44GLS",
+    "ts": "1591116468.007600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LDWr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, anyone on the channel hiring these days? "
+              },
+              {
+                "type": "emoji",
+                "name": "neutral_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591116468.007600",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1591145526.007700",
+    "reply_users": [
+      "UCXR52MU2"
+    ],
+    "replies": [
+      {
+        "user": "UCXR52MU2",
+        "ts": "1591145526.007700"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "4769c4c3-a460-49b5-8662-2ec951df8972",
+    "type": "message",
+    "text": "yes, staff/principle eng/ ems. basically non-jr devs if you’re interested.",
+    "user": "UCXR52MU2",
+    "ts": "1591145526.007700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb32dfce4716",
+      "image_72": "https://avatars.slack-edge.com/2019-11-05/811235948051_cb32dfce4716b0783b45_72.jpg",
+      "first_name": "Rui",
+      "real_name": "Rui Min Sim",
+      "display_name": "Rui Min",
+      "team": "T5TCAFTA9",
+      "name": "ruimin.sim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H4l1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, staff/principle eng/ ems. basically non-jr devs if you’re interested."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591116468.007600",
+    "parent_user_id": "U013HU44GLS"
+  },
+  {
+    "client_msg_id": "22427fa4-a606-4716-b623-ac6b963b6827",
+    "type": "message",
+    "text": "@here Lynxtool has a few key roles open. If you're a talented generalist engineer, front end developer, or a PL wizard, drop me a note and I'll fill you in a little bit more.\n<mailto:tbabb@lynxtool.com|tbabb@lynxtool.com>",
+    "user": "U6FKVSVCK",
+    "ts": "1591641291.008400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cad501b70b26",
+      "image_72": "https://avatars.slack-edge.com/2019-10-07/786673147216_cad501b70b26e7666ed0_72.png",
+      "first_name": "Tim",
+      "real_name": "Tim Babb",
+      "display_name": "tbabb",
+      "team": "T5TCAFTA9",
+      "name": "tbabb",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U6FKVSVCK",
+      "ts": "1591646456.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qv6k6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@here Lynxtool has a few key roles open. If you're a talented generalist engineer, front end developer, or a PL wizard, drop me a note and I'll fill you in a little bit more.\n"
+              },
+              {
+                "type": "link",
+                "url": "mailto:tbabb@lynxtool.com",
+                "text": "tbabb@lynxtool.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1591730620.010600",
+    "reply_users": [
+      "UC2A2ARPT",
+      "U6FKVSVCK",
+      "U013HU44GLS",
+      "U85HCL7JP"
+    ],
+    "replies": [
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1591641949.008600"
+      },
+      {
+        "user": "U6FKVSVCK",
+        "ts": "1591642409.008900"
+      },
+      {
+        "user": "UC2A2ARPT",
+        "ts": "1591643402.009200"
+      },
+      {
+        "user": "U013HU44GLS",
+        "ts": "1591654150.009600"
+      },
+      {
+        "user": "U85HCL7JP",
+        "ts": "1591664686.009900"
+      },
+      {
+        "user": "U6FKVSVCK",
+        "ts": "1591723263.010400"
+      },
+      {
+        "user": "U013HU44GLS",
+        "ts": "1591730620.010600"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "cake",
+        "users": [
+          "UC2A2ARPT",
+          "UUB7RA7PF",
+          "U013HU44GLS"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "821b899b-5bba-4d85-89ca-5ee8b259dea3",
+    "type": "message",
+    "text": "That's exciting! If you don't mind me asking — how are you funded?",
+    "user": "UC2A2ARPT",
+    "ts": "1591641949.008600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JT3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's exciting! If you don't mind me asking — how are you funded?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK"
+  },
+  {
+    "client_msg_id": "f5b8aedc-06c7-4db0-a543-b02f98a03a34",
+    "type": "message",
+    "text": "Raised a seed round, from a VC who I think is a great fit for the company",
+    "user": "U6FKVSVCK",
+    "ts": "1591642409.008900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cad501b70b26",
+      "image_72": "https://avatars.slack-edge.com/2019-10-07/786673147216_cad501b70b26e7666ed0_72.png",
+      "first_name": "Tim",
+      "real_name": "Tim Babb",
+      "display_name": "tbabb",
+      "team": "T5TCAFTA9",
+      "name": "tbabb",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dMzYy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Raised a seed round, from a VC who I think is a great fit for the company"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK"
+  },
+  {
+    "client_msg_id": "41DBB4E2-8CC8-4318-BFE7-1C59815D0239",
+    "type": "message",
+    "text": "Congrats!",
+    "user": "UC2A2ARPT",
+    "ts": "1591643402.009200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lx5M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Congrats!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK",
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U6FKVSVCK"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a06b124-711c-4086-bf41-2cb71bcba423",
+    "type": "message",
+    "text": "Generalist engineer? I guess that would be me, maybe ...",
+    "user": "U013HU44GLS",
+    "ts": "1591654150.009600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ku5W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Generalist engineer? I guess that would be me, maybe ..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK"
+  },
+  {
+    "client_msg_id": "e0cc2513-27cd-40ae-b19f-e5c1d56499d8",
+    "type": "message",
+    "text": "Hey <@U6FKVSVCK> :wave:, are roles remote friendly?",
+    "user": "U85HCL7JP",
+    "ts": "1591664686.009900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "e6db0e9dd5fe",
+      "image_72": "https://avatars.slack-edge.com/2020-02-15/956131187863_e6db0e9dd5fe2e3b9df2_72.jpg",
+      "first_name": "",
+      "real_name": "Daniel Garcia",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "daniel.garcia.carmona",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oKw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U6FKVSVCK"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": ", are roles remote friendly?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UPVBV34EL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "399f35f7-abc6-4437-a3db-fdb1a5874686",
+    "type": "message",
+    "text": "Lynxtool is SF bay area-based (Berkeley). However, with COVID it's likely to be primarily remote for the first several months at least.\n\nAbsent COVID, the plan was/is to have several days face-to-face time per week, with the remaining time being \"work where you like\".",
+    "user": "U6FKVSVCK",
+    "ts": "1591723263.010400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cad501b70b26",
+      "image_72": "https://avatars.slack-edge.com/2019-10-07/786673147216_cad501b70b26e7666ed0_72.png",
+      "first_name": "Tim",
+      "real_name": "Tim Babb",
+      "display_name": "tbabb",
+      "team": "T5TCAFTA9",
+      "name": "tbabb",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/ErDM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Lynxtool is SF bay area-based (Berkeley). However, with COVID it's likely to be primarily remote for the first several months at least.\n\nAbsent COVID, the plan was/is to have several days face-to-face time per week, with the remaining time being \"work where you like\"."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK"
+  },
+  {
+    "client_msg_id": "3668b5f8-41c7-4b2f-b91e-a00ed947d9a8",
+    "type": "message",
+    "text": "<@U6FKVSVCK> I think you may mean several days face-to-face time per month. I spend the last 9 months working remotely and spending 1 to 2 weeks per month in Palo-Alto and it was rough with the family",
+    "user": "U013HU44GLS",
+    "ts": "1591730620.010600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U013HU44GLS",
+      "ts": "1591730634.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9lB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U6FKVSVCK"
+              },
+              {
+                "type": "text",
+                "text": " I think you may mean several days face-to-face time per month. I spend the last 9 months working remotely and spending 1 to 2 weeks per month in Palo-Alto and it was rough with the family"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1591641291.008400",
+    "parent_user_id": "U6FKVSVCK"
+  },
+  {
+    "client_msg_id": "8674b673-dd64-40c6-91f3-5a62b68cba85",
+    "type": "message",
+    "text": "Sorry, meant to post this in general. ~Why do you guys think COM interop in Windows has fallen out of vogue? At the surface, it seems like an awesome way to get apps working together, but I haven't seen it used in a very long time.~",
+    "user": "UJK8MKYAZ",
+    "ts": "1592235601.012500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g191fa9e3260",
+      "image_72": "https://secure.gravatar.com/avatar/6191fa9e32605141275a68a8bb5f04fa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Daniel Hines",
+      "display_name": "Daniel Hines",
+      "team": "T5TCAFTA9",
+      "name": "d4hines",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UJK8MKYAZ",
+      "ts": "1592242409.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Mj=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, meant to post this in general. "
+              },
+              {
+                "type": "text",
+                "text": "Why do you guys think COM interop in Windows has fallen out of vogue? At the surface, it seems like an awesome way to get apps working together, but I haven't seen it used in a very long time.",
+                "style": {
+                  "strike": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1592235601.012500",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1592242377.012800",
+    "reply_users": [
+      "UFPPABQ7P",
+      "UJK8MKYAZ"
+    ],
+    "replies": [
+      {
+        "user": "UFPPABQ7P",
+        "ts": "1592239658.012600"
+      },
+      {
+        "user": "UJK8MKYAZ",
+        "ts": "1592242377.012800"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "03b09bbe-370e-40a7-9bc4-58c6956a3672",
+    "type": "message",
+    "text": "I had a friend who showed me COM objects just a few months ago, they were using them via Laravel. They did seem like they worked really well for his use case (using some PDF creation tools written in C# or Java or something)",
+    "user": "UFPPABQ7P",
+    "ts": "1592239658.012600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9d79e2bebc",
+      "image_72": "https://avatars.slack-edge.com/2019-05-09/631538186901_cb9d79e2bebc09100b3f_72.jpg",
+      "first_name": "Cole",
+      "real_name": "Cole Lawrence",
+      "display_name": "Cole",
+      "team": "T5TCAFTA9",
+      "name": "colelawr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xD1T4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had a friend who showed me COM objects just a few months ago, they were using them via Laravel. They did seem like they worked really well for his use case (using some PDF creation tools written in C# or Java or something)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1592235601.012500",
+    "parent_user_id": "UJK8MKYAZ"
+  },
+  {
+    "client_msg_id": "46c941c1-90dc-46b8-8768-2b4f68d517df",
+    "type": "message",
+    "text": "Shoot, I meant to post this in general",
+    "user": "UJK8MKYAZ",
+    "ts": "1592242377.012800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g191fa9e3260",
+      "image_72": "https://secure.gravatar.com/avatar/6191fa9e32605141275a68a8bb5f04fa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "",
+      "real_name": "Daniel Hines",
+      "display_name": "Daniel Hines",
+      "team": "T5TCAFTA9",
+      "name": "d4hines",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s=xuD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Shoot, I meant to post this in general"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1592235601.012500",
+    "parent_user_id": "UJK8MKYAZ",
+    "reactions": [
+      {
+        "name": "sweat_smile",
+        "users": [
+          "UFPPABQ7P"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bce5c43b-dbbd-41af-975e-54927d7e9d98",
+    "type": "message",
+    "text": "<https://storyscript.com/|Storyscript> is looking into hiring Rust experts soon. The job is not posted yet, but we do want to start conversations with people to share the scope of our project to learn from the community as to what to look for and how to express the complexity of the product. This is an ask for any Rust (or Haskel :smile: ) engineers that would like to help us (looking for a job or not). Thank you very much! DM me to inquire.",
+    "user": "UJKKBAMLL",
+    "ts": "1593105848.016100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "title": "Storyscript — AI-assisted, no-code workspace.",
+        "title_link": "https://storyscript.com/",
+        "text": "Create workflows, bots, forms, and answer complex business questions in seconds with no code.",
+        "fallback": "Storyscript — AI-assisted, no-code workspace.",
+        "from_url": "https://storyscript.com/",
+        "service_icon": "https://storyscript.com/favicon.ico",
+        "service_name": "storyscript.com",
+        "id": 1,
+        "original_url": "https://storyscript.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7gI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://storyscript.com/",
+                "text": "Storyscript"
+              },
+              {
+                "type": "text",
+                "text": " is looking into hiring Rust experts soon. The job is not posted yet, but we do want to start conversations with people to share the scope of our project to learn from the community as to what to look for and how to express the complexity of the product. This is an ask for any Rust (or Haskel "
+              },
+              {
+                "type": "emoji",
+                "name": "smile"
+              },
+              {
+                "type": "text",
+                "text": " ) engineers that would like to help us (looking for a job or not). Thank you very much! DM me to inquire."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UC2A2ARPT",
+          "UKP3B2J5D",
+          "UPVBV34EL",
+          "U015TBQ2091",
+          "UBSMEUXAA"
+        ],
+        "count": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548674815.000200",
+    "user": "U5TCAFTD3",
+    "text": "<@U5TCAFTD3> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_purpose",
+    "ts": "1548674816.000300",
+    "user": "U5TCAFTD3",
+    "text": "<@U5TCAFTD3> set the channel purpose: Randomly get paired with other interesting people from this Slack",
+    "purpose": "Randomly get paired with other interesting people from this Slack",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UD6EXQVM0"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548674824.000500",
+    "user": "UFQ0XSFH6",
+    "text": "<@UFQ0XSFH6> has joined the channel",
+    "inviter": "U5TCAFTD3"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548675165.000700",
+    "user": "UCKRZS3DZ",
+    "text": "<@UCKRZS3DZ> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548675461.001000",
+    "user": "UF5PAGQQ4",
+    "text": "<@UF5PAGQQ4> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548676374.001300",
+    "user": "UAL7940NM",
+    "text": "<@UAL7940NM> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548676530.001600",
+    "user": "UFD2JRE58",
+    "text": "<@UFD2JRE58> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548676992.001900",
+    "user": "UF3V37GCE",
+    "text": "<@UF3V37GCE> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548677867.002200",
+    "user": "UAZT04VT4",
+    "text": "<@UAZT04VT4> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548679763.002500",
+    "user": "UF06DRY1X",
+    "text": "<@UF06DRY1X> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548682474.002800",
+    "user": "UEGFXUK3M",
+    "text": "<@UEGFXUK3M> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548693172.003100",
+    "user": "UFFHBL3PU",
+    "text": "<@UFFHBL3PU> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548694680.003400",
+    "user": "UD43R8ZFV",
+    "text": "<@UD43R8ZFV> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548703300.003700",
+    "user": "UF0770MK2",
+    "text": "<@UF0770MK2> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548722110.000200",
+    "user": "UD3AK9JRF",
+    "text": "<@UD3AK9JRF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548881379.000200",
+    "user": "UFS53UWE5",
+    "text": "<@UFS53UWE5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548991353.000500",
+    "user": "U85MWBKEY",
+    "text": "<@U85MWBKEY> has joined the channel"
+  },
+  {
+    "client_msg_id": "7983204D-62DB-44A9-8F33-538BC258CCE6",
+    "type": "message",
+    "text": "This is so cool! Thanks for giving it a try Steve",
+    "user": "U85MWBKEY",
+    "ts": "1548991377.001000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "88eacb7e65ed",
+      "image_72": "https://avatars.slack-edge.com/2019-07-08/681438296241_88eacb7e65edebc579ab_72.jpg",
+      "first_name": "Aidan",
+      "real_name": "Aidan Cunniffe",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "acunniffe",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U5TCAFTD3"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1548996094.001200",
+    "user": "UFMD4TQMD",
+    "text": "<@UFMD4TQMD> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1549010754.001500",
+    "user": "UFUKSKJRW",
+    "text": "<@UFUKSKJRW> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1549062858.001900",
+    "user": "UBUFWBGNN",
+    "text": "<@UBUFWBGNN> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1549226070.000200",
+    "user": "UFXFB1RK8",
+    "text": "<@UFXFB1RK8> has joined the channel"
+  },
+  {
+    "client_msg_id": "ccbac6a2-906e-4bdc-ab09-af6bce93b165",
+    "type": "message",
+    "text": "Enjoyed my first 1-on-1, good idea <@U5TCAFTD3>!",
+    "user": "UEGFXUK3M",
+    "ts": "1549301545.000300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "bbd74d10a2d2",
+      "image_72": "https://avatars.slack-edge.com/2020-04-24/1108683470016_bbd74d10a2d2a0dbb156_72.jpg",
+      "first_name": "Jack",
+      "real_name": "Jack",
+      "display_name": "jarm",
+      "team": "T5TCAFTA9",
+      "name": "jack",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1549301545.000300",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1549303323.000400",
+    "reply_users": [
+      "U5TCAFTD3"
+    ],
+    "replies": [
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1549303323.000400"
+      }
+    ],
+    "subscribed": true,
+    "last_read": "1549303323.000400"
+  },
+  {
+    "client_msg_id": "b72dc361-c051-4568-bc3a-cacda4ca015a",
+    "type": "message",
+    "text": "Glad to hear it! Credit for the idea goes to <@UAL7940NM> <@U85MWBKEY> and <@UDJ8A6RNH> ",
+    "user": "U5TCAFTD3",
+    "ts": "1549303323.000400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1549301545.000300",
+    "parent_user_id": "UEGFXUK3M",
+    "reactions": [
+      {
+        "name": "clap",
+        "users": [
+          "UEGFXUK3M"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1549303326.000700",
+    "user": "UDJ8A6RNH",
+    "text": "<@UDJ8A6RNH> has joined the channel",
+    "inviter": "U5TCAFTD3"
+  },
+  {
+    "type": "message",
+    "text": "<@UF0770MK2> and I had a great 1-on-1. Here are the notes: <https://docs.google.com/document/d/1LKdECggeViF9nrC0U0OIdiedMsO6hTOn7YitUsJd8jo/edit>",
+    "files": [
+      {
+        "id": "FG26Z0GRH",
+        "created": 1549655770,
+        "timestamp": 1549655770,
+        "name": "Future of Coding 1-on-1 : 2019-02-07 : Grant and Tim",
+        "title": "Future of Coding 1-on-1 : 2019-02-07 : Grant and Tim",
+        "mimetype": "application/vnd.google-apps.document",
+        "filetype": "gdoc",
+        "pretty_type": "G Suite Document",
+        "user": "UD43R8ZFV",
+        "editable": false,
+        "size": 3841,
+        "mode": "external",
+        "is_external": true,
+        "external_type": "gdrive",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://docs.google.com/document/d/1LKdECggeViF9nrC0U0OIdiedMsO6hTOn7YitUsJd8jo/edit?usp=drivesdk",
+        "thumb_64": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_64.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_80": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_80.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_360": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_360.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_360_w": 279,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_480.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_480_w": 371,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_160.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_720": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_720.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_720_w": 557,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_800.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1034,
+        "thumb_960": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_960.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_960_w": 743,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T5TCAFTA9-FG26Z0GRH-7557d5eff5/future_of_coding_1-on-1___2019-02-07___grant_and_tim_1024.png?t=xoxe-197418537349-1220335257046-1227067770482-88f226025a2db8e34ac513e918d80320",
+        "thumb_1024_w": 792,
+        "thumb_1024_h": 1024,
+        "image_exif_rotation": 1,
+        "original_w": 800,
+        "original_h": 1034,
+        "permalink": "https://futureofcoding.slack.com/files/UD43R8ZFV/FG26Z0GRH/future_of_coding_1-on-1___2019-02-07___grant_and_tim",
+        "is_starred": false,
+        "external_id": "1LKdECggeViF9nrC0U0OIdiedMsO6hTOn7YitUsJd8jo",
+        "external_url": "https://docs.google.com/document/d/1LKdECggeViF9nrC0U0OIdiedMsO6hTOn7YitUsJd8jo/edit?usp=drivesdk",
+        "has_rich_preview": true
+      }
+    ],
+    "upload": false,
+    "user": "UD43R8ZFV",
+    "display_as_bot": false,
+    "x_files": [
+      "FG26Z0GRH"
+    ],
+    "ts": "1549657278.003600",
+    "client_msg_id": "d29240e9-99a1-4c48-942e-6c90402fe41d",
+    "thread_ts": "1549657278.003600",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1549722614.000500",
+    "reply_users": [
+      "UEGFXUK3M"
+    ],
+    "replies": [
+      {
+        "user": "UEGFXUK3M",
+        "ts": "1549722611.000300"
+      },
+      {
+        "user": "UEGFXUK3M",
+        "ts": "1549722614.000500"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "a91be1a2-e391-43bb-bf49-2bea7b00a066",
+    "type": "message",
+    "text": "Nice idea taking notes!",
+    "user": "UEGFXUK3M",
+    "ts": "1549722611.000300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "bbd74d10a2d2",
+      "image_72": "https://avatars.slack-edge.com/2020-04-24/1108683470016_bbd74d10a2d2a0dbb156_72.jpg",
+      "first_name": "Jack",
+      "real_name": "Jack",
+      "display_name": "jarm",
+      "team": "T5TCAFTA9",
+      "name": "jack",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1549657278.003600",
+    "parent_user_id": "UD43R8ZFV"
+  },
+  {
+    "client_msg_id": "945bc05a-1e2f-4b10-9926-b6398d6ed67f",
+    "type": "message",
+    "text": "Thanks for sharing",
+    "user": "UEGFXUK3M",
+    "ts": "1549722614.000500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "bbd74d10a2d2",
+      "image_72": "https://avatars.slack-edge.com/2020-04-24/1108683470016_bbd74d10a2d2a0dbb156_72.jpg",
+      "first_name": "Jack",
+      "real_name": "Jack",
+      "display_name": "jarm",
+      "team": "T5TCAFTA9",
+      "name": "jack",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1549657278.003600",
+    "parent_user_id": "UD43R8ZFV"
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1551866416.001200",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *7* groups who met from the last round of Donut pairings!\n\nThat's *78%* of the *9* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "You're doing *great*! Donut ever change!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "You're doing *great*! Donut ever change!"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1554282022.000200",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *9* groups who met from the last round of Donut pairings!\n\nThat's *64%* of the *14* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "You're doing *great*! Donut ever change!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "You're doing *great*! Donut ever change!"
+      },
+      {
+        "text": "<http://bit.ly/2OsTUqO|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2OsTUqO|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1556701208.000100",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *29%* of the *14* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1559120408.000300",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *2* groups who met from the last round of Donut pairings!\n\nThat's *17%* of the *12* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1561539638.000600",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *29%* of the *14* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "29614d01-882d-42d6-a854-2bfa73b94e7a",
+    "type": "message",
+    "text": "Is there a way to remove inactive users from this channel? They’re starting to waste my time.",
+    "user": "UD3AK9JRF",
+    "ts": "1561745472.001500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "fbd43a63-b827-4467-bdc6-27424e1a0f70",
+    "type": "message",
+    "text": "Man that sucks. :confused: I've actually gotten a 100% hit rate so far, so maybe just a bad roll?",
+    "user": "UFS53UWE5",
+    "ts": "1561752140.001900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "4e472ce26f4f",
+      "image_72": "https://avatars.slack-edge.com/2019-06-19/659226130515_4e472ce26f4fdcf0b051_72.jpg",
+      "first_name": "John",
+      "real_name": "John Austin",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "kleptine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "72d34f6b-7771-492a-ba3e-d598cbfe29b8",
+    "type": "message",
+    "text": "Maybe so. It’s been very nice when it works.",
+    "user": "UD3AK9JRF",
+    "ts": "1561752656.002200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "bbfcd7b2-eb1c-4823-9a1c-8ff3e1ff0241",
+    "type": "message",
+    "text": "Happened to me twice already too. We could probably just use this channel to match those who got an inactive partner.",
+    "user": "UAL7940NM",
+    "ts": "1561980854.001600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "43873346f949",
+      "image_72": "https://avatars.slack-edge.com/2018-07-13/399377633206_43873346f949174e340e_72.jpg",
+      "first_name": "Felix",
+      "real_name": "Felix Kohlgrüber",
+      "display_name": "Felix Kohlgrüber",
+      "team": "T5TCAFTA9",
+      "name": "felix.kohlgrueber",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "0656d793-a70a-496c-aa33-3531418c017b",
+    "type": "message",
+    "text": "I don't have much spare time, but I like to be able to take a raincheck on such cases (I owe a couple right now, actually)",
+    "user": "UAVCC2X70",
+    "ts": "1562022922.005300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "ec35ac5b251f",
+      "image_72": "https://avatars.slack-edge.com/2018-05-22/369438371830_ec35ac5b251f37e26aca_72.jpg",
+      "first_name": "",
+      "real_name": "Dan Cook",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "dcook0819",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "48dad240-9ce1-4f44-b6c2-25f5b8076684",
+    "type": "message",
+    "text": "If you don't get a response from your partner here, maybe message me to remove them and also message in the group that you're looking for a partner",
+    "user": "U5TCAFTD3",
+    "ts": "1562081383.006200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1562081383.006200",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1568000983.000600",
+    "reply_users": [
+      "UFPPABQ7P",
+      "UF5PAGQQ4",
+      "U5TCAFTD3",
+      "UFUKSKJRW"
+    ],
+    "replies": [
+      {
+        "user": "UFPPABQ7P",
+        "ts": "1562341236.007300"
+      },
+      {
+        "user": "UF5PAGQQ4",
+        "ts": "1562344878.007500"
+      },
+      {
+        "user": "U5TCAFTD3",
+        "ts": "1562354244.007800"
+      },
+      {
+        "user": "UFUKSKJRW",
+        "ts": "1568000983.000600"
+      }
+    ],
+    "subscribed": true,
+    "last_read": "1568059148.082400",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "UD3AK9JRF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9aa68430-752f-406c-bfe8-3bb29b9f4730",
+    "type": "message",
+    "text": "I'm looking for a partner!",
+    "user": "UFPPABQ7P",
+    "ts": "1562341161.007200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9d79e2bebc",
+      "image_72": "https://avatars.slack-edge.com/2019-05-09/631538186901_cb9d79e2bebc09100b3f_72.jpg",
+      "first_name": "Cole",
+      "real_name": "Cole Lawrence",
+      "display_name": "Cole",
+      "team": "T5TCAFTA9",
+      "name": "colelawr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "bca93f50-c891-40c4-bd17-da9179b7120e",
+    "type": "message",
+    "text": "I was paired with <@UF5PAGQQ4>, but I didn't see a response :shrug:",
+    "user": "UFPPABQ7P",
+    "ts": "1562341236.007300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9d79e2bebc",
+      "image_72": "https://avatars.slack-edge.com/2019-05-09/631538186901_cb9d79e2bebc09100b3f_72.jpg",
+      "first_name": "Cole",
+      "real_name": "Cole Lawrence",
+      "display_name": "Cole",
+      "team": "T5TCAFTA9",
+      "name": "colelawr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1562081383.006200",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "71e84e18-98f4-48eb-9ff9-baba1a78b0c0",
+    "type": "message",
+    "text": "apologies, I thought I had time for 1-to-1s, but it turns out I’m too busy these days. Sorry, I’ll see myself out :slightly_smiling_face:",
+    "user": "UF5PAGQQ4",
+    "ts": "1562344878.007500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g99a3fab7a1a",
+      "image_72": "https://secure.gravatar.com/avatar/299a3fab7a1a2d6644455dedae9fce0a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "",
+      "real_name": "Stathis Sideris",
+      "display_name": "Stathis",
+      "team": "T5TCAFTA9",
+      "name": "sideris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1562081383.006200",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "client_msg_id": "8eb35d8a-ab5b-425b-ae33-57fb21be1a34",
+    "type": "message",
+    "text": ":+1:",
+    "user": "U5TCAFTD3",
+    "ts": "1562354244.007800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7c31dc735c6c",
+      "image_72": "https://avatars.slack-edge.com/2018-09-11/433781465829_7c31dc735c6c1257fe1f_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Krouse",
+      "display_name": "stevekrouse",
+      "team": "T5TCAFTA9",
+      "name": "stevekrouse",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1562081383.006200",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1563958835.000400",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *29%* of the *14* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1566378067.001600",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *2* groups who met from the last round of Donut pairings!\n\nThat's *13%* of the *15* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3e9a1358-036f-416e-8d68-b9209caa2f85",
+    "type": "message",
+    "text": "At, sorry folks... I haven't been looking at this Slack.",
+    "user": "UFUKSKJRW",
+    "ts": "1568000983.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g0a5769da6d9",
+      "image_72": "https://secure.gravatar.com/avatar/40a5769da6d979c1ebc47cdec887f24a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "forresto",
+      "real_name": "forresto",
+      "display_name": "forresto",
+      "team": "T5TCAFTA9",
+      "name": "forrest",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1562081383.006200",
+    "parent_user_id": "U5TCAFTD3"
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1568797258.000600",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *24%* of the *17* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1571216438.000700",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *21%* of the *19* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1573639250.002200",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *19%* of the *21* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1576058461.003700",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *4* groups who met from the last round of Donut pairings!\n\nThat's *17%* of the *23* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1578477649.000100",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *2* groups who met from the last round of Donut pairings!\n\nThat's *9%* of the *22* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "712aa2ad-15c5-49bb-838b-db4619e832e6",
+    "type": "message",
+    "text": "I tried to donut with <@UPS6YEJJF> but didn't hear back, so not for lack of trying :disappointed:",
+    "user": "UFLN9JFRT",
+    "ts": "1578486653.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g7ec98818d7f",
+      "image_72": "https://secure.gravatar.com/avatar/67ec98818d7fb6395d9a327081cd5472.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Zubair",
+      "real_name": "Zubair Quraishi",
+      "display_name": "Zubairq",
+      "team": "T5TCAFTA9",
+      "name": "zubairq",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AzF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I tried to donut with "
+              },
+              {
+                "type": "user",
+                "user_id": "UPS6YEJJF"
+              },
+              {
+                "type": "text",
+                "text": " but didn't hear back, so not for lack of trying "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "disappointed",
+        "users": [
+          "UFPPABQ7P"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": "*2019, Digested for Future of Coding :gift:*  Before we look ahead, let’s look back at the fun we had and connections you made in 2019.",
+    "user": "UFQ0XSFH6",
+    "ts": "1579210958.000300",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "User#1219942#digested_team",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*2019, Digested for Future of Coding :gift:*\n\nBefore we look ahead, let’s look back at the fun we had and connections you made in 2019.",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "wgWHl",
+        "image_url": "https://d2b807tps66q33.cloudfront.net/images/graphics/dd-19-cover-team.png",
+        "alt_text": "digested",
+        "title": {
+          "type": "plain_text",
+          "text": "Digested",
+          "emoji": true
+        },
+        "fallback": "1200x600px image",
+        "image_width": 1200,
+        "image_height": 600,
+        "image_bytes": 81057
+      },
+      {
+        "type": "actions",
+        "block_id": "User#1219942#url_button",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "no_op",
+            "text": {
+              "type": "plain_text",
+              "text": ":rocket: View our Donut Digest ➝ ",
+              "emoji": true
+            },
+            "value": ":rocket: View our Donut Digest ➝ ",
+            "url": "http://bit.ly/3alRwgf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "BFQHW0L6Q",
+    "type": "message",
+    "text": ":wave: Hey everyone! I've got some fresh Donut stats for you!",
+    "user": "UFQ0XSFH6",
+    "ts": "1580896837.001500",
+    "team": "T5TCAFTA9",
+    "bot_profile": {
+      "id": "BFQHW0L6Q",
+      "deleted": true,
+      "name": "Donut",
+      "updated": 1583244157,
+      "app_id": "A11MJ51SR",
+      "icons": {
+        "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_36.png",
+        "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_48.png",
+        "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-07/238810648614_7050c90574e7f953aa42_72.png"
+      },
+      "team_id": "T5TCAFTA9"
+    },
+    "attachments": [
+      {
+        "text": "Congratulations to the *3* groups who met from the last round of Donut pairings!\n\nThat's *18%* of the *17* intros made.",
+        "title": ":tada::doughnut:",
+        "id": 1,
+        "color": "7F50FF",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": ":tada::doughnut:"
+      },
+      {
+        "text": "Can you get to *100%*? Be a great Donut buddy this round and find out!",
+        "id": 2,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "Can you get to *100%*? Be a great Donut buddy this round and find out!"
+      },
+      {
+        "text": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>",
+        "id": 3,
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<http://bit.ly/2J05pFh|View more detailed stats in the Reporting Dashboard →>"
+      }
+    ]
+  }
+]

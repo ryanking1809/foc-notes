@@ -1,0 +1,1193 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1552210134.000200",
+    "user": "U5TCAFTD3",
+    "text": "<@U5TCAFTD3> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1552599305.000200",
+    "user": "UD43R8ZFV",
+    "text": "<@UD43R8ZFV> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1552603353.000200",
+    "user": "UD3AK9JRF",
+    "text": "<@UD3AK9JRF> has joined the channel"
+  },
+  {
+    "client_msg_id": "39987224-8FD3-4F9E-BF52-1877327A8F6E",
+    "type": "message",
+    "text": ":confetti_ball:",
+    "user": "UD3AK9JRF",
+    "ts": "1552603370.000500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "a3830071-031f-4815-8765-fa7c50865e74",
+    "type": "message",
+    "text": ":wave:",
+    "user": "UD43R8ZFV",
+    "ts": "1552604685.000700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "85ee3dacef95",
+      "image_72": "https://avatars.slack-edge.com/2018-09-30/445630960161_85ee3dacef95dd5617e4_72.png",
+      "first_name": "Tim",
+      "real_name": "Tim Swast",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "tswast",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "F725E8FA-F51C-4A56-827E-207AA5CA764E",
+    "type": "message",
+    "text": "Shall I put out an invitation on <#C5T9GPWFL|general>? Also, I’m around a bit this weekend, if you want to do a <#CFQUMT7M3|1-on-1s>",
+    "user": "UD3AK9JRF",
+    "ts": "1552673498.001700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "caf4f24d-e0d2-444c-8f9f-3ab72236bb30",
+    "type": "message",
+    "text": "I'm in Portland this weekend.",
+    "user": "UD43R8ZFV",
+    "ts": "1552676534.000500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "85ee3dacef95",
+      "image_72": "https://avatars.slack-edge.com/2018-09-30/445630960161_85ee3dacef95dd5617e4_72.png",
+      "first_name": "Tim",
+      "real_name": "Tim Swast",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "tswast",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1555134586.000200",
+    "user": "UC25EFSJC",
+    "text": "<@UC25EFSJC> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1557292954.000200",
+    "user": "UJKC8B0QN",
+    "text": "<@UJKC8B0QN> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1557325259.000200",
+    "user": "UJ5HRQEH0",
+    "text": "<@UJ5HRQEH0> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1561240178.000200",
+    "user": "U9ZU3C9KM",
+    "text": "<@U9ZU3C9KM> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1567101441.000200",
+    "user": "UMPQ9A65N",
+    "text": "<@UMPQ9A65N> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1570838195.000200",
+    "user": "UP7N4QVK2",
+    "text": "<@UP7N4QVK2> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1570852007.000400",
+    "user": "UNTRC48LC",
+    "text": "<@UNTRC48LC> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1571348895.000200",
+    "user": "UP69Y6VJ7",
+    "text": "<@UP69Y6VJ7> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1571988136.000200",
+    "user": "UJKKBAMLL",
+    "text": "<@UJKKBAMLL> has joined the channel"
+  },
+  {
+    "client_msg_id": "75ab5b4d-c7b8-45eb-aabe-072451828615",
+    "type": "message",
+    "text": ":wave: Hi! I’m moving to Seattle from Amsterdam in January. Would love to meet people in the community here. Anyone down?",
+    "user": "UJKKBAMLL",
+    "ts": "1571988165.000900",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571988165.000900",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1572019993.001700",
+    "reply_users": [
+      "UNTRC48LC",
+      "UJKKBAMLL",
+      "UD3AK9JRF"
+    ],
+    "replies": [
+      {
+        "user": "UNTRC48LC",
+        "ts": "1571992871.001100"
+      },
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1572000917.000100"
+      },
+      {
+        "user": "UD3AK9JRF",
+        "ts": "1572017469.001400"
+      },
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1572019993.001700"
+      }
+    ],
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "UNTRC48LC",
+          "UD3AK9JRF"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "41a6a267-57e5-4937-aabc-c4e824464217",
+    "type": "message",
+    "text": "I don’t live in Seattle anymore, but was born and raised there. Welcome to Seattle! LMK if you have any Seattle questions. :slightly_smiling_face:",
+    "user": "UNTRC48LC",
+    "ts": "1571992871.001100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "7ac1b627050d",
+      "image_72": "https://avatars.slack-edge.com/2019-09-27/778546394390_7ac1b627050d647b9143_72.jpg",
+      "first_name": "Cindy",
+      "real_name": "Cindy Wu",
+      "display_name": "Cindy Wu",
+      "team": "T5TCAFTA9",
+      "name": "cindy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571988165.000900",
+    "parent_user_id": "UJKKBAMLL"
+  },
+  {
+    "client_msg_id": "8b64ba2b-4f70-445f-a7b8-d76c1f58c3de",
+    "type": "message",
+    "text": "Thank you <@UNTRC48LC> :smile:",
+    "user": "UJKKBAMLL",
+    "ts": "1572000917.000100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571988165.000900",
+    "parent_user_id": "UJKKBAMLL",
+    "reactions": [
+      {
+        "name": "slightly_smiling_face",
+        "users": [
+          "UNTRC48LC"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "A0611529-579F-40D3-AEFB-E98E8553DBB2",
+    "type": "message",
+    "text": "Hi Steve! I was also born and raised here. Happy to chat when you’re here. ",
+    "user": "UD3AK9JRF",
+    "ts": "1572017469.001400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571988165.000900",
+    "parent_user_id": "UJKKBAMLL",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "UJKKBAMLL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d3a7a08b-0a54-4df2-bab7-ae6405a60772",
+    "type": "message",
+    "text": "<@UD3AK9JRF> thank you kindly!",
+    "user": "UJKKBAMLL",
+    "ts": "1572019993.001700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1571988165.000900",
+    "parent_user_id": "UJKKBAMLL"
+  },
+  {
+    "client_msg_id": "0341f127-4abb-49f6-a93c-5f29929afef5",
+    "type": "message",
+    "text": "And if anyone already <!here> wants to chat, I was thinking of being somewhere public this Friday afternoon. I’ll say 4-6pm at Schultze’s in the U District. If no one else comes, I’ll just be working. Propose a different place if that doesn’t work for you.",
+    "user": "UD3AK9JRF",
+    "ts": "1572301896.002200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "477C8D9C-F7B6-4C6B-AD39-D16E765D82A1",
+    "type": "message",
+    "text": "Moving next door to Solstice",
+    "user": "UD3AK9JRF",
+    "ts": "1572650406.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1580850713.000200",
+    "user": "UT5URDKEW",
+    "text": "<@UT5URDKEW> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1588270388.000200",
+    "user": "UC2A2ARPT",
+    "text": "<@UC2A2ARPT> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1589321603.000200",
+    "user": "U013HU44GLS",
+    "text": "<@U013HU44GLS> has joined the channel"
+  },
+  {
+    "client_msg_id": "b09fd4ef-3df6-4975-99f9-1d19c879f505",
+    "type": "message",
+    "text": "Hello Seattle people!",
+    "user": "U013HU44GLS",
+    "ts": "1589323362.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bqvLv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Seattle people!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "UJKKBAMLL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f57cc64b-0c35-49a1-8ce9-976474bf5cf5",
+    "type": "message",
+    "text": "Nice to meet you <@U013HU44GLS> :wave:  — I’m now to Seattle and would love to meet others involved in FoC",
+    "user": "UJKKBAMLL",
+    "ts": "1589396440.001100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "UJKKBAMLL",
+      "ts": "1589396453.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sqnc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice to meet you "
+              },
+              {
+                "type": "user",
+                "user_id": "U013HU44GLS"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": "  — I’m now to Seattle and would love to meet others involved in FoC"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "70cbd843-1872-4d4a-8ba1-f300218b6cd7",
+    "type": "message",
+    "text": "Likewise <@UJKKBAMLL>",
+    "user": "U013HU44GLS",
+    "ts": "1589401919.001500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PkaQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Likewise "
+              },
+              {
+                "type": "user",
+                "user_id": "UJKKBAMLL"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "01ddbcc5-2b6d-4d17-98ac-bd5cfa1f7c13",
+    "type": "message",
+    "text": "<@UJKKBAMLL> Storyscript looks intriguing btw. Can't wait to see what you came-up with :slightly_smiling_face:",
+    "user": "U013HU44GLS",
+    "ts": "1589405672.002200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YJ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "UJKKBAMLL"
+              },
+              {
+                "type": "text",
+                "text": " Storyscript looks intriguing btw. Can't wait to see what you came-up with "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "35333ebd-79a6-445b-9dfb-5362785e662b",
+    "type": "message",
+    "text": "<@U013HU44GLS> thanks! What we show on our website is not quite the angle we are taking. It’s more an AI assistant for work - conversational agent for complex tasks. Very exciting stuff :slightly_smiling_face: Happy to show you demos when we meet someday.",
+    "user": "UJKKBAMLL",
+    "ts": "1589405760.003700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l/JR/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U013HU44GLS"
+              },
+              {
+                "type": "text",
+                "text": " thanks! What we show on our website is not quite the angle we are taking. It’s more an AI assistant for work - conversational agent for complex tasks. Very exciting stuff "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": " Happy to show you demos when we meet someday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589405760.003700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1589405843.004300",
+    "reply_users": [
+      "U013HU44GLS"
+    ],
+    "replies": [
+      {
+        "user": "U013HU44GLS",
+        "ts": "1589405843.004300"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2a0bd169-adea-4111-93a1-39c43a65a0b4",
+    "type": "message",
+    "text": "I’m in West Seattle and very much looking forward to having a BBQ with the community when COVID slows down.",
+    "user": "UJKKBAMLL",
+    "ts": "1589405786.004200",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jua",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m in West Seattle and very much looking forward to having a BBQ with the community when COVID slows down."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589405786.004200",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1589405878.004500",
+    "reply_users": [
+      "U013HU44GLS"
+    ],
+    "replies": [
+      {
+        "user": "U013HU44GLS",
+        "ts": "1589405878.004500"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "f18e95d0-ae62-445e-83f2-13d9d22f2841",
+    "type": "message",
+    "text": "Oh, okay. Sounds still cool.",
+    "user": "U013HU44GLS",
+    "ts": "1589405843.004300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WLAy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, okay. Sounds still cool."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589405760.003700",
+    "parent_user_id": "UJKKBAMLL"
+  },
+  {
+    "client_msg_id": "485bc94d-2e06-416e-9865-94d04300acd7",
+    "type": "message",
+    "text": ":+1:",
+    "user": "U013HU44GLS",
+    "ts": "1589405878.004500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d1oa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "+1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589405786.004200",
+    "parent_user_id": "UJKKBAMLL"
+  },
+  {
+    "client_msg_id": "d71e5208-dadf-4ebe-822f-707d84aeaab6",
+    "type": "message",
+    "text": "BTW, any one knows of cool startups hiring these days in Seattle? I suppose because of COVID19 it could be anywhere really ...",
+    "user": "U013HU44GLS",
+    "ts": "1589563758.006800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LnEl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "BTW, any one knows of cool startups hiring these days in Seattle? I suppose because of COVID19 it could be anywhere really ..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1591559257.013500",
+    "reply_users": [
+      "UJKKBAMLL",
+      "UD3AK9JRF"
+    ],
+    "replies": [
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1589642368.009000"
+      },
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1589642386.009600"
+      },
+      {
+        "user": "UD3AK9JRF",
+        "ts": "1591557125.009800"
+      },
+      {
+        "user": "UJKKBAMLL",
+        "ts": "1591559136.013300"
+      },
+      {
+        "user": "UD3AK9JRF",
+        "ts": "1591559257.013500"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "b20d7ffe-1a51-43d4-a433-76815dc5b25b",
+    "type": "message",
+    "text": "check out <https://www.geekwire.com/geekwire-200/> Also, <https://demoday.techstars.com/seattle-2020-t1> if you are looking for an early-stage startup",
+    "user": "UP7N4QVK2",
+    "ts": "1589568520.007800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "af6fba5ec598",
+      "image_72": "https://avatars.slack-edge.com/2020-03-13/987215935218_af6fba5ec5980ff38980_72.jpg",
+      "first_name": "Santiago",
+      "real_name": "Santiago Perez De Rosso",
+      "display_name": "Santiago Perez De Rosso",
+      "team": "T5TCAFTA9",
+      "name": "spderosso564",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "GeekWire",
+        "title": "GeekWire 200 - GeekWire",
+        "title_link": "https://www.geekwire.com/geekwire-200/",
+        "text": "The GeekWire 200 is Seattle’s Startup Leaderboard, an index of the most prominent up-and-coming technology startup companies in Seattle and the Pacific Northwest.",
+        "fallback": "GeekWire: GeekWire 200 - GeekWire",
+        "image_url": "https://cdn.geekwire.com/wp-content/uploads/2012/09/gw200.jpg",
+        "image_width": 423,
+        "image_height": 250,
+        "from_url": "https://www.geekwire.com/geekwire-200/",
+        "image_bytes": 132311,
+        "service_icon": "https://www.geekwire.com/apple-touch-icon-57x57.png",
+        "id": 1,
+        "original_url": "https://www.geekwire.com/geekwire-200/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xnVT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "check out "
+              },
+              {
+                "type": "link",
+                "url": "https://www.geekwire.com/geekwire-200/"
+              },
+              {
+                "type": "text",
+                "text": " Also, "
+              },
+              {
+                "type": "link",
+                "url": "https://demoday.techstars.com/seattle-2020-t1"
+              },
+              {
+                "type": "text",
+                "text": " if you are looking for an early-stage startup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589568520.007800",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1589577994.008000",
+    "reply_users": [
+      "U013HU44GLS"
+    ],
+    "replies": [
+      {
+        "user": "U013HU44GLS",
+        "ts": "1589577994.008000"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2bd628d8-910c-4465-b539-237ff8594573",
+    "type": "message",
+    "text": "Great. Thank you Santiago!",
+    "user": "U013HU44GLS",
+    "ts": "1589577994.008000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "cb9e0e557132",
+      "image_72": "https://avatars.slack-edge.com/2020-05-12/1132600153425_cb9e0e5571321437af24_72.jpg",
+      "first_name": "Jean-Louis",
+      "real_name": "Jean-Louis Villecroze",
+      "display_name": "CocoaGeek",
+      "team": "T5TCAFTA9",
+      "name": "jeanlouis.villecroze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e=Hv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great. Thank you Santiago!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589568520.007800",
+    "parent_user_id": "UP7N4QVK2"
+  },
+  {
+    "client_msg_id": "1C14913D-E3E6-4ED8-A772-4372073AFF3E",
+    "type": "message",
+    "text": "We may be hiring soon. Looking for 7+ year proven industry specialist",
+    "user": "UJKKBAMLL",
+    "ts": "1589642368.009000",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "es8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We may be hiring soon. Looking for 7+ year proven industry specialist"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "parent_user_id": "U013HU44GLS"
+  },
+  {
+    "client_msg_id": "273AED21-40FB-4CCF-BA1B-FB4B21BEA224",
+    "type": "message",
+    "text": "I'm in Seattle, but the team is fully remote",
+    "user": "UJKKBAMLL",
+    "ts": "1589642386.009600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CWmw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm in Seattle, but the team is fully remote"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "parent_user_id": "U013HU44GLS"
+  },
+  {
+    "client_msg_id": "f0e86242-da1c-412e-8a1f-a94c792f8de9",
+    "type": "message",
+    "text": "Hi Steve, Storyscript looks compelling. What sort of specialist are you looking for?",
+    "user": "UD3AK9JRF",
+    "ts": "1591557125.009800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rPX/n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Steve, Storyscript looks compelling. What sort of specialist are you looking for?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "parent_user_id": "U013HU44GLS"
+  },
+  {
+    "client_msg_id": "64F68C98-3E86-421C-B631-F394D5B5EECA",
+    "type": "message",
+    "text": "Thanks <@UD3AK9JRF> - right now our hiring is on the back burner as we have a good team to accomplish the stage we are at. In Q4 weay start hiring again. The roles are TBD and may include ML focused, integration specialists, infra, technical sales, mobile focused, among other roles",
+    "user": "UJKKBAMLL",
+    "ts": "1591559136.013300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "6b9db1f76eed",
+      "image_72": "https://avatars.slack-edge.com/2019-06-12/662675221668_6b9db1f76eed746965ca_72.jpg",
+      "first_name": "Steve",
+      "real_name": "Steve Peak",
+      "display_name": "Steve",
+      "team": "T5TCAFTA9",
+      "name": "steve727",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AL+F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "UD3AK9JRF"
+              },
+              {
+                "type": "text",
+                "text": " - right now our hiring is on the back burner as we have a good team to accomplish the stage we are at. In Q4 weay start hiring again. The roles are TBD and may include ML focused, integration specialists, infra, technical sales, mobile focused, among other roles"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "parent_user_id": "U013HU44GLS"
+  },
+  {
+    "client_msg_id": "49fe33ea-d8f1-4c63-88f0-ab03e82399d4",
+    "type": "message",
+    "text": "Cool, thanks. Good luck!",
+    "user": "UD3AK9JRF",
+    "ts": "1591559257.013500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g35dfa49055c",
+      "image_72": "https://secure.gravatar.com/avatar/235dfa49055c0a25f2ccfc667a7a6b77.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "",
+      "real_name": "Peter Abrahamsen",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "rainhead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tbeap",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool, thanks. Good luck!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1589563758.006800",
+    "parent_user_id": "U013HU44GLS"
+  }
+]

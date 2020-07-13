@@ -1,0 +1,581 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1550337143.000200",
+    "user": "U5TCAFTD3",
+    "text": "<@U5TCAFTD3> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1550337144.000400",
+    "user": "UC25BN0RW",
+    "text": "<@UC25BN0RW> has joined the channel",
+    "inviter": "U5TCAFTD3"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1555558329.000200",
+    "user": "UHZE0UA8L",
+    "text": "<@UHZE0UA8L> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1557804140.000200",
+    "user": "UJN1TAYEQ",
+    "text": "<@UJN1TAYEQ> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1559246711.000200",
+    "user": "UJYG21KQR",
+    "text": "<@UJYG21KQR> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1559838551.000200",
+    "user": "UKDM3GLAJ",
+    "text": "<@UKDM3GLAJ> has joined the channel"
+  },
+  {
+    "client_msg_id": "9c1d1752-9d3f-446a-a871-546bba2eea3d",
+    "type": "message",
+    "text": "Hi Kitchener-Waterloo!",
+    "user": "UKDM3GLAJ",
+    "ts": "1559838580.000700",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "34e7a55348e8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-04/893378739792_34e7a55348e8c86c1901_72.jpg",
+      "first_name": "",
+      "real_name": "Jared Windover",
+      "display_name": "Jared Windover",
+      "team": "T5TCAFTA9",
+      "name": "jaredwindover",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "4780892a-58bd-4e85-ae66-bd21388b167c",
+    "type": "message",
+    "text": "Hi <@UKDM3GLAJ>. There is a Kitchener-Waterloo meetup group: <https://www.meetup.com/Future-of-Programming-KW/>",
+    "user": "UJN1TAYEQ",
+    "ts": "1559841338.001400",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4185a542241",
+      "image_72": "https://secure.gravatar.com/avatar/34185a5422416f82b3e4a62964f2866b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "",
+      "real_name": "Doug Moen",
+      "display_name": "Doug Moen",
+      "team": "T5TCAFTA9",
+      "name": "doug",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "service_name": "Meetup",
+        "title": "Future of Programming KW (Waterloo, ON)",
+        "title_link": "https://www.meetup.com/Future-of-Programming-KW/",
+        "text": "KW Future of Programming is a friendly group of people excited about the future of computery thinking. Projects like [Dynamicland]( <https://dynamicland.org/> ), [Sketch-n-Sketch]( <https://ravichugh.git>",
+        "fallback": "Meetup: Future of Programming KW (Waterloo, ON)",
+        "image_url": "https://secure.meetupstatic.com/photos/event/2/a/7/4/600_477310868.jpeg",
+        "from_url": "https://www.meetup.com/Future-of-Programming-KW/",
+        "image_width": 445,
+        "image_height": 250,
+        "image_bytes": 40543,
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png",
+        "id": 1,
+        "original_url": "https://www.meetup.com/Future-of-Programming-KW/"
+      }
+    ],
+    "thread_ts": "1559841338.001400",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1559841607.001600",
+    "reply_users": [
+      "UKDM3GLAJ"
+    ],
+    "replies": [
+      {
+        "user": "UKDM3GLAJ",
+        "ts": "1559841607.001600"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "12d86518-6347-459f-a3fd-00fb057dff40",
+    "type": "message",
+    "text": "Thanks <@UJN1TAYEQ>!",
+    "user": "UKDM3GLAJ",
+    "ts": "1559841607.001600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "34e7a55348e8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-04/893378739792_34e7a55348e8c86c1901_72.jpg",
+      "first_name": "",
+      "real_name": "Jared Windover",
+      "display_name": "Jared Windover",
+      "team": "T5TCAFTA9",
+      "name": "jaredwindover",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1559841338.001400",
+    "parent_user_id": "UJN1TAYEQ"
+  },
+  {
+    "client_msg_id": "e36dcb0b-20e8-4c97-ac95-b435e1c0fd92",
+    "type": "message",
+    "text": "Is there another meetup scheduled?",
+    "user": "UJN1TAYEQ",
+    "ts": "1560266402.000300",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4185a542241",
+      "image_72": "https://secure.gravatar.com/avatar/34185a5422416f82b3e4a62964f2866b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "",
+      "real_name": "Doug Moen",
+      "display_name": "Doug Moen",
+      "team": "T5TCAFTA9",
+      "name": "doug",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1560355849.000500",
+    "user": "UGWUJUZHT",
+    "text": "<@UGWUJUZHT> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1563510533.000200",
+    "user": "UD31LGQKB",
+    "text": "<@UD31LGQKB> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1568414340.000200",
+    "user": "UNDU8JWKZ",
+    "text": "<@UNDU8JWKZ> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1570292074.000200",
+    "user": "UNRHC7VPD",
+    "text": "<@UNRHC7VPD> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1576798921.000200",
+    "user": "URZ8WQUHL",
+    "text": "<@URZ8WQUHL> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1578020242.000400",
+    "user": "URV7B2542",
+    "text": "<@URV7B2542> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1579173679.000200",
+    "user": "USEQV4KCH",
+    "text": "<@USEQV4KCH> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1579930658.000200",
+    "user": "UT60XSVCN",
+    "text": "<@UT60XSVCN> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1580235836.000400",
+    "user": "UC2A2ARPT",
+    "text": "<@UC2A2ARPT> has joined the channel"
+  },
+  {
+    "client_msg_id": "29cedc86-cdc1-44cd-9073-d3817717554f",
+    "type": "message",
+    "text": "<https://futureofcoding.slack.com/archives/CLYCGTCPL/p1580173382009400>",
+    "user": "UC2A2ARPT",
+    "ts": "1580235900.000600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://futureofcoding.slack.com/archives/CLYCGTCPL/p1580173382009400",
+        "fallback": "[January 27th, 2020 5:03 PM] jonathoda: Psychology of Programming 2020: July 29-31 Toronto\n<http://www.ppig.org/content/ppig-2020-call-papers>",
+        "ts": "1580173382.009400",
+        "author_id": "U6KQ2S410",
+        "author_subname": "Jonathan Edwards",
+        "channel_id": "CLYCGTCPL",
+        "channel_name": "end-user-programming",
+        "is_msg_unfurl": true,
+        "is_thread_root_unfurl": true,
+        "text": "Psychology of Programming 2020: July 29-31 Toronto\n<http://www.ppig.org/content/ppig-2020-call-papers>",
+        "author_name": "Jonathan Edwards",
+        "author_link": "https://futureofcoding.slack.com/team/U6KQ2S410",
+        "author_icon": "https://avatars.slack-edge.com/2017-08-09/225308926294_e8f4c2151d2b70ebfae3_48.jpg",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "id": 1,
+        "original_url": "https://futureofcoding.slack.com/archives/CLYCGTCPL/p1580173382009400",
+        "footer": "Thread in #end-user-programming"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p3=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://futureofcoding.slack.com/archives/CLYCGTCPL/p1580173382009400"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "168cd709-30ad-49f0-b3f2-30c7fd3b96d0",
+    "type": "message",
+    "text": "Any folks here think they might want to attend this event?",
+    "user": "UC2A2ARPT",
+    "ts": "1580235917.001100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "gf94d2ed5e18",
+      "image_72": "https://secure.gravatar.com/avatar/6f94d2ed5e188be9865a531021b0afcd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "Ivan",
+      "real_name": "Ivan Reese",
+      "display_name": "",
+      "team": "T5TCAFTA9",
+      "name": "ivanreese",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yOa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any folks here think they might want to attend this event?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580235917.001100",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1580240824.001600",
+    "reply_users": [
+      "UJN1TAYEQ"
+    ],
+    "replies": [
+      {
+        "user": "UJN1TAYEQ",
+        "ts": "1580240824.001600"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d0b66838-cfb4-4613-8e42-fd76e2d75dd0",
+    "type": "message",
+    "text": "I am interested.",
+    "user": "UJN1TAYEQ",
+    "ts": "1580240824.001600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4185a542241",
+      "image_72": "https://secure.gravatar.com/avatar/34185a5422416f82b3e4a62964f2866b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "",
+      "real_name": "Doug Moen",
+      "display_name": "Doug Moen",
+      "team": "T5TCAFTA9",
+      "name": "doug",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R109X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am interested."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580235917.001100",
+    "parent_user_id": "UC2A2ARPT"
+  },
+  {
+    "client_msg_id": "f9981aea-5b1b-4b90-b667-dacc7cc3341f",
+    "type": "message",
+    "text": "Is there anybody in Kitchener-Waterloo who would like to get together for a FoC meetup? Reply to this thread.",
+    "user": "UJN1TAYEQ",
+    "ts": "1580241244.002500",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g4185a542241",
+      "image_72": "https://secure.gravatar.com/avatar/34185a5422416f82b3e4a62964f2866b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "",
+      "real_name": "Doug Moen",
+      "display_name": "Doug Moen",
+      "team": "T5TCAFTA9",
+      "name": "doug",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dbh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there anybody in Kitchener-Waterloo who would like to get together for a FoC meetup? Reply to this thread."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580241244.002500",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1580434369.003100",
+    "reply_users": [
+      "UKDM3GLAJ",
+      "URV7B2542",
+      "UNRHC7VPD"
+    ],
+    "replies": [
+      {
+        "user": "UKDM3GLAJ",
+        "ts": "1580241509.002600"
+      },
+      {
+        "user": "URV7B2542",
+        "ts": "1580333940.002800"
+      },
+      {
+        "user": "UNRHC7VPD",
+        "ts": "1580434369.003100"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0b223fa0-2952-42f1-9485-b227a4834730",
+    "type": "message",
+    "text": ":hand:",
+    "user": "UKDM3GLAJ",
+    "ts": "1580241509.002600",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "34e7a55348e8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-04/893378739792_34e7a55348e8c86c1901_72.jpg",
+      "first_name": "",
+      "real_name": "Jared Windover",
+      "display_name": "Jared Windover",
+      "team": "T5TCAFTA9",
+      "name": "jaredwindover",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s4n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "hand"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580241244.002500",
+    "parent_user_id": "UJN1TAYEQ"
+  },
+  {
+    "client_msg_id": "79e16a1f-1454-4497-b954-edd13fa71e5e",
+    "type": "message",
+    "text": "I'm in downtown Toronto",
+    "user": "URV7B2542",
+    "ts": "1580333940.002800",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "4e7d34790bb8",
+      "image_72": "https://avatars.slack-edge.com/2020-01-13/907092307126_4e7d34790bb87c177106_72.jpg",
+      "first_name": "",
+      "real_name": "Matt",
+      "display_name": "Matt",
+      "team": "T5TCAFTA9",
+      "name": "mattvleming",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KP4C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm in downtown Toronto"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580241244.002500",
+    "parent_user_id": "UJN1TAYEQ"
+  },
+  {
+    "client_msg_id": "7de1450b-54d8-4652-99ac-960721dbe721",
+    "type": "message",
+    "text": "I'd be interested!",
+    "user": "UNRHC7VPD",
+    "ts": "1580434369.003100",
+    "team": "T5TCAFTA9",
+    "user_team": "T5TCAFTA9",
+    "source_team": "T5TCAFTA9",
+    "user_profile": {
+      "avatar_hash": "g94afa607bcd",
+      "image_72": "https://secure.gravatar.com/avatar/94afa607bcd0573bbeb3a5335a646bf0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "",
+      "real_name": "James Hill-Khurana",
+      "display_name": "James Hill-Khurana",
+      "team": "T5TCAFTA9",
+      "name": "jhillkhurana",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AeFy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'd be interested!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1580241244.002500",
+    "parent_user_id": "UJN1TAYEQ"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1585542520.000200",
+    "user": "U6S1R1M6K",
+    "text": "<@U6S1R1M6K> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1586548640.000400",
+    "user": "U011CFCAF3R",
+    "text": "<@U011CFCAF3R> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1587152333.000600",
+    "user": "UNCP67JSK",
+    "text": "<@UNCP67JSK> has joined the channel"
+  }
+]
