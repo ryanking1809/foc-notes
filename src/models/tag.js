@@ -13,6 +13,10 @@ class Tag {
 }
 
 class TagCollection {
+	// shortcuts can technically be konami, eg. "z e" -> "zettel"
+	// however I haven't figured out how the system should act
+	// if there is a "z" code and a "z e" code
+	// for reference https://github.com/ryanking1809/hyper-interactive
 	@observable tagsById = {
 		"zettel-related": new Tag("zettel-related", "z"),
 		"not-zettel": new Tag("not-zettel", "x"),
@@ -26,7 +30,7 @@ class TagCollection {
 		return tagsArray.reduce((a, b) => a.filter((c) => b.includes(c)));
 	}
 	@computed get selectedTags() {
-		return this.selectedTagIds.map(tId => this.tagsById[tId]);
+		return this.selectedTagIds.map((tId) => this.tagsById[tId]);
 	}
 	@computed get tags() {
 		return Object.values(this.tagsById);

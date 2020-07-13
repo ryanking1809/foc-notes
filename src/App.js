@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import './App.css';
+// specific channels, for example "./focData/messages/general.json"
 import messageJson from "./focData/messages.json"
 import userJson from "./focData/users.json"
 import {Messages} from "./models/message"
@@ -15,20 +16,22 @@ import { Notes, Note } from './models/note';
 import HyperInteractive from "hyper-interactive";
 const hyper = new HyperInteractive();
 
+// please forgive the mess of components below
+
 Users.import(userJson)
 Messages.import(messageJson)
 localforage.getItem('zettel-tags').then(function(value) {
     // This code runs once the value has been loaded
     // from the offline store.
     value.notes && Notes.import(value.notes);
-    value.messages && Messages.importTagsNotes(value.messages) // this also imports notes
+    value.messages && Messages.importTagsNotes(value.messages)
 }).catch(function(err) {
-    // This code runs if there were any errors
     console.log(err);
 });
 
 const App = observer(() => {
   useEffect(() => {
+	  	// TODO - add save shortcut
 		hyper.addInteraction({
 			formula: "down",
 			reaction: () => {

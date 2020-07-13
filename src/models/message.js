@@ -36,6 +36,8 @@ export class Message {
 				this.noteIds = new Set(notes);
 			}
 			@computed get id() {
+				// slack threads refer to each other using userId & timestamps
+				// but not the existing message id
 				return this.ts + this.userId;
 			}
 			@computed get replies() {
