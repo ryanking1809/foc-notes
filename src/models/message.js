@@ -68,7 +68,7 @@ export class Message {
 				return [...this.tagIds].map((tId) => Tags.tagsById[tId]);
 			}
 			@computed get notes() {
-				return [...this.noteIds].map((nId) => Notes.notesById[nId]);
+				return [...this.noteIds].map((nId) => Notes.notesById[nId]).filter(n => n);
 			}
 		}
 

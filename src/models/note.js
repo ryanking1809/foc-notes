@@ -26,7 +26,7 @@ class NoteCollection {
 		return [...selectedNotes];
 	}
 	@computed get selectedNotes() {
-		return [...this.selectedNoteIds.map((nId) => this.notesById[nId]), this.newNote];
+		return [...this.selectedNoteIds.map((nId) => this.notesById[nId]).filter(n => n), this.newNote];
 	}
 	@computed get notes() {
 		return Object.values(this.notesById);
