@@ -16,6 +16,26 @@ import { Notes, Note } from './models/note';
 import HyperInteractive from "hyper-interactive";
 const hyper = new HyperInteractive();
 
+let change = false;
+
+const saveData = () => {
+	change && localforage.setItem("zettel-tags", {
+          messages: Messages.messages.filter(m => m.tags.length || m.notes.length).map(
+            m => ({
+              messageId: m.id,
+              tags: [...m.tagIds],
+              notes: [...m.noteIds]
+            })
+          ),
+          notes: Notes.notes.filter(n => n.text?.length).map(n => ({id: n.id, text: n.text}))
+		}).then((data) => {
+			change = false;
+			console.log("saved!", data)
+		})
+	}
+		
+setInterval(saveData, 1000);
+
 // please forgive the mess of components below
 
 Users.import(userJson)
@@ -71,6 +91,7 @@ const App = observer(() => {
           } else {
             Messages.selectedMessages.forEach((m) => m.tagIds.add(t.name));
           }
+			change = true;
         },
       });
     })
@@ -93,21 +114,7 @@ const App = observer(() => {
 
 const SaveButton = observer(() => {
   return (
-		<button
-			onClick={
-        () => localforage.setItem("zettel-tags", {
-          messages: Messages.messages.filter(m => m.tags.length || m.notes.length).map(
-            m => ({
-              messageId: m.id,
-              tags: [...m.tagIds],
-              notes: [...m.noteIds]
-            })
-          ),
-          notes: Notes.notes.filter(n => n.text?.length).map(n => ({id: n.id, text: n.text}))
-        }).then((data) => console.log("saved!", data))
-      }
-			className="save-btn"
-		>
+		<button onClick={saveData} className="save-btn">
 			Save Data
 		</button>
   );
@@ -197,6 +204,7 @@ const PropertyPanel = observer(() => {
 								m.tagIds.add(t.name)
 							);
 						}
+						change = true;
 					}}
 				>
 					[ {t.shortcut} ] - {t.name}
@@ -230,6 +238,7 @@ const NoteBox = observer(({note}) => {
           Messages.selectedMessages.forEach(m => m.noteIds.add(note.id));
           Notes.newNote = new Note();
         }
+		change = true;
       }}
 		/>
   );
@@ -250,7 +259,6 @@ const Message = observer(({ message, index }) => {
 				ref={messageRef}
 				className={selected ? "message selected" : "message"}
 				onClick={(e) => {
-					console.log("Message -> e", e);
 					if (selected) {
 						Messages.selectedMessageIds.delete(id);
 						Messages.selectedMessageIndex = null;
