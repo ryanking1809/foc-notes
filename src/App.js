@@ -34,16 +34,20 @@ const App = observer(() => {
 	  	// TODO - add save shortcut
 		hyper.addInteraction({
 			formula: "down",
+			// bug in hyper-interactive, fix later
+			// repeat: true,
 			reaction: () => {
-        if (!Notes.focussedNoteId) Messages.selectMessageBelow();
-      },
+			if (!Notes.focussedNoteId) Messages.selectMessageBelow();
+		},
 		});
 		hyper.addInteraction({
 			formula: "up",
+			// bug in hyper-interactive, fix later
+			// repeat: true,
 			reaction: () => {
-        if (!Notes.focussedNoteId) Messages.selectMessageAbove();
-      },
-    });
+				if (!Notes.focussedNoteId) Messages.selectMessageAbove();
+			},
+		});
 		hyper.addInteraction({
 			formula: "right",
 			reaction: () => {
@@ -241,17 +245,22 @@ const Message = observer(({ message, index }) => {
 	return (
 		<div className="message-block">
 			<div
-        ref={messageRef}
+				ref={messageRef}
 				className={selected ? "message selected" : "message"}
-				onClick={() => {
+				onClick={(e) => {
+					console.log("Message -> e", e);
 					if (selected) {
-            Messages.selectedMessageIds.delete(id);
-            Messages.selectedMessageIndex = null;
-            Messages.selectedReplyIndex = null;
-					} else {
+						Messages.selectedMessageIds.delete(id);
+						Messages.selectedMessageIndex = null;
+						Messages.selectedReplyIndex = null;
+					} else if(e.shiftKey) {
 						Messages.selectedMessageIds.add(id);
-            Messages.selectedMessageIndex = index;
-			      Messages.selectedReplyIndex = null;
+						Messages.selectedMessageIndex = index;
+						Messages.selectedReplyIndex = null;
+					} else {
+						Messages.selectedMessageIds = new Set([id]);
+						Messages.selectedMessageIndex = index;
+						Messages.selectedReplyIndex = null;
 					}
 				}}
 			>
@@ -272,9 +281,21 @@ const Message = observer(({ message, index }) => {
 					) : null}
 				</div>
 			</div>
-			{Filters.showContext && <div className="replies">
-				{replies.map((r,i) => r && <Reply key={r.id} message={r} index={index} replyIndex={i} />)}
-			</div>}
+			{Filters.showContext && (
+				<div className="replies">
+					{replies.map(
+						(r, i) =>
+							r && (
+								<Reply
+									key={r.id}
+									message={r}
+									index={index}
+									replyIndex={i}
+								/>
+							)
+					)}
+				</div>
+			)}
 		</div>
 	);
 });
@@ -292,13 +313,17 @@ const Reply = observer(({ message, index, replyIndex }) => {
 		<div
 			ref={messageRef}
 			className={selected ? "reply selected" : "reply"}
-			onClick={() => {
+			onClick={e => {
 				if (selected) {
 					Messages.selectedMessageIds.delete(id);
 					Messages.selectedMessageIndex = null;
 					Messages.selectedReplyIndex = null;
-				} else {
+				} else if(e.shiftKey) {
 					Messages.selectedMessageIds.add(id);
+					Messages.selectedMessageIndex = index;
+					Messages.selectedReplyIndex = replyIndex;
+				} else {
+					Messages.selectedMessageIds = new Set([id]);
 					Messages.selectedMessageIndex = index;
 					Messages.selectedReplyIndex = replyIndex;
 				}
