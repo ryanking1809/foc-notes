@@ -34,16 +34,18 @@ const App = observer(() => {
 	  	// TODO - add save shortcut
 		hyper.addInteraction({
 			formula: "down",
-			// bug in hyper-interactive, fix later
-			// repeat: true,
+			// TODO - make keydown default in hyper interactive
+			// makes repeate keys appear buggy when not
+			repeat: true,
+			eventType: "keydown",
 			reaction: () => {
-			if (!Notes.focussedNoteId) Messages.selectMessageBelow();
-		},
+				if (!Notes.focussedNoteId) Messages.selectMessageBelow();
+			},
 		});
 		hyper.addInteraction({
 			formula: "up",
-			// bug in hyper-interactive, fix later
-			// repeat: true,
+			repeat: true,
+			eventType: "keydown",
 			reaction: () => {
 				if (!Notes.focussedNoteId) Messages.selectMessageAbove();
 			},
